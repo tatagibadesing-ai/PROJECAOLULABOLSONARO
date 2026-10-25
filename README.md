@@ -60,14 +60,17 @@ node scripts/backtest.mjs
 
 ## Deploy na Vercel
 
-1. Envie o projeto a um repositório Git e importe-o na Vercel, com preset Next.js e Node.js 24.
-2. Diretório raiz: o diretório deste projeto. Instalação: `pnpm install --frozen-lockfile`. Build: `pnpm build`. Sem export estático, pois há rotas de servidor.
-3. Mantenha os dados em `public/data`, os documentos e os arquivos de código no deploy. As bibliotecas e as fontes de interface são locais.
-4. Permita HTTPS de saída para `resultados.tse.jus.br`. Não use segredos no navegador. Os defaults só apontam aos endereços oficiais descobertos e assinados.
-5. Antes de anunciar acompanhamento em produção, implemente um coletor único ou cache/trava distribuídos. O cache atual é por processo e **não garante** uma consulta global por 30 segundos em múltiplas instâncias. O primeiro ciclo de 29 arquivos pode levar cerca de 15 segundos: configure a duração da função de acordo com o plano e valide em staging.
-6. Execute os testes contra a instância de staging e verifique status, hora da fonte, 28 circunscrições e cenários de falha. Não publique probabilidades enquanto as âncoras estatísticas estiverem pendentes.
+O código está na branch `main` de https://github.com/tatagibadesing-ai/PROJECAOLULABOLSONARO . Na Vercel, abra https://vercel.com/new , selecione esse repositório e clique em **Deploy**. A conta Vercel precisa ter acesso ao repositório pelo aplicativo GitHub da Vercel.
 
-Nenhum deploy foi efetuado por este trabalho. A nuvem de desenvolvimento e a publicação na Vercel são etapas distintas.
+O arquivo `vercel.json` já define Next.js, instalação com lockfile e build. Use diretório raiz `./`; Node.js **24.x** é declarado em `package.json`. Não é necessário segredo para os endereços oficiais confirmados do TSE. Não use exportação estática, pois há rotas de servidor.
+
+O build copia o arquivo congelado byte a byte para `public/projecao-final.json`. O download usa o CDN estático. A rota `/api/projecao` verifica o original, mas retorna uma apresentação resumida de aproximadamente 3,1 MB, preservando percentuais, contagens e intervalos das cidades, abaixo do limite de resposta das Functions. Seu hash identifica explicitamente o original, não a representação resumida.
+
+Na Vercel, o cache vai para `/tmp`, fora do projeto de apenas leitura. Esse disco é temporário, por instância, e diferentes rotas podem receber instâncias distintas. O histórico indica essa limitação; retenção e limite global de consulta exigem armazenamento/cache/trava compartilhados antes de prometer operação em escala. A duração das rotas é configurada em 60 segundos, sujeita ao plano. A coleta inicial de 29 arquivos pode levar cerca de 15 segundos.
+
+Originais volumosos, dependências, credenciais e cache local não entram no Git ou no deploy. Veja `dados/ORIGINAIS.md`. Os dados web, fontes de aplicação e arquivo congelado necessário ao runtime estão incluídos.
+
+Valide a URL publicada, `/api/apuracao`, `/api/projecao?metadata=1`, download do congelamento e os modos da interface. Chances e intervalos continuam condicionais; não se alega validação estatística porque o site foi hospedado.
 
 ## Arquivos de transparência
 
