@@ -1,0 +1,685 @@
+{
+  "checkedAt": "2026-10-24T23:48:56.160276+00:00",
+  "status": "partial",
+  "checks": [
+    {
+      "file": "public/data/first-round-2026.json",
+      "status": "passed",
+      "errors": [],
+      "cityCount": 5757,
+      "domesticCityCount": 5571,
+      "foreignLocations": 186,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "16": 43103,
+          "30": 326488,
+          "35": 16881,
+          "70": 3448569,
+          "27": 40043,
+          "55": 2605148,
+          "13": 53879538,
+          "21": 22693,
+          "29": 15024,
+          "14": 2675887,
+          "80": 122911,
+          "22": 56104503
+        },
+        "electorate": 158745502,
+        "abstention": 33469244,
+        "annulledSeparate": 0,
+        "blank": 2300798,
+        "null": 3674249,
+        "valid": 119300788,
+        "turnout": 125275835,
+        "notInstalledElectorate": 423,
+        "sections": 499248,
+        "aggregatedSections": 17931,
+        "notInstalledSections": 41,
+        "lastTotalizationAt": "2026-10-05T02:58:39-03:00"
+      }
+    },
+    {
+      "file": "public/data/round-1-2022.json",
+      "status": "passed",
+      "errors": [],
+      "cityCount": 5751,
+      "domesticCityCount": 5570,
+      "foreignLocations": 181,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "21": 45620,
+          "44": 600955,
+          "14": 81129,
+          "22": 51072345,
+          "16": 25625,
+          "15": 4915423,
+          "12": 3599287,
+          "80": 53519,
+          "27": 16604,
+          "30": 559708,
+          "13": 57259504
+        },
+        "electorate": 156454011,
+        "abstention": 32770982,
+        "annulledSeparate": 0,
+        "blank": 1964779,
+        "null": 3487874,
+        "valid": 118229719,
+        "turnout": 123682372,
+        "notInstalledElectorate": 657,
+        "sections": 472075,
+        "aggregatedSections": 24163,
+        "notInstalledSections": 47,
+        "lastTotalizationAt": "2022-10-04T10:27:34-03:00"
+      }
+    },
+    {
+      "file": "public/data/round-2-2022.json",
+      "status": "passed",
+      "errors": [],
+      "cityCount": 5751,
+      "domesticCityCount": 5570,
+      "foreignLocations": 181,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "22": 58206354,
+          "13": 60345999
+        },
+        "electorate": 156454011,
+        "abstention": 32200558,
+        "annulledSeparate": 0,
+        "blank": 1769678,
+        "null": 3930765,
+        "valid": 118552353,
+        "turnout": 124252796,
+        "notInstalledElectorate": 657,
+        "sections": 472075,
+        "aggregatedSections": 24163,
+        "notInstalledSections": 47,
+        "lastTotalizationAt": "2022-10-31T00:18:04-03:00"
+      }
+    },
+    {
+      "file": "public/data/round-1-2018.json",
+      "status": "passed",
+      "errors": [],
+      "cityCount": 5741,
+      "domesticCityCount": 5570,
+      "foreignLocations": 171,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "12": 13344371,
+          "15": 1288950,
+          "50": 617122,
+          "18": 1069578,
+          "30": 2679745,
+          "27": 41710,
+          "19": 859601,
+          "45": 5096350,
+          "51": 1348323,
+          "16": 55762,
+          "17": 49277010,
+          "13": 31342051,
+          "54": 30176
+        },
+        "electorate": 147306295,
+        "abstention": 29941171,
+        "annulledSeparate": 746,
+        "blank": 3106937,
+        "null": 7206222,
+        "valid": 107050749,
+        "turnout": 117364654,
+        "notInstalledElectorate": 470,
+        "sections": 454490,
+        "aggregatedSections": 27370,
+        "notInstalledSections": 40,
+        "lastTotalizationAt": "2019-01-14T14:29:48-03:00"
+      }
+    },
+    {
+      "file": "public/data/round-2-2018.json",
+      "status": "passed",
+      "errors": [],
+      "cityCount": 5741,
+      "domesticCityCount": 5570,
+      "foreignLocations": 171,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "13": 47040906,
+          "17": 57797847
+        },
+        "electorate": 147306294,
+        "abstention": 31372373,
+        "annulledSeparate": 0,
+        "blank": 2486593,
+        "null": 8608105,
+        "valid": 104838753,
+        "turnout": 115933451,
+        "notInstalledElectorate": 470,
+        "sections": 454490,
+        "aggregatedSections": 27370,
+        "notInstalledSections": 40,
+        "lastTotalizationAt": "2019-02-25T18:10:21-03:00"
+      }
+    },
+    {
+      "file": "public/data/round-1-2014.json",
+      "status": "failed",
+      "errors": [
+        {
+          "id": "SE-31950",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "SE-31054",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "ZZ-29823",
+          "check": "electorate",
+          "difference": -1
+        },
+        {
+          "id": "ZZ-30669",
+          "check": "electorate",
+          "difference": -5
+        },
+        {
+          "id": "ZZ-29750",
+          "check": "electorate",
+          "difference": -11
+        },
+        {
+          "id": "ZZ-30880",
+          "check": "electorate",
+          "difference": -27
+        },
+        {
+          "id": "ZZ-29521",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "ZZ-29939",
+          "check": "electorate",
+          "difference": -26
+        },
+        {
+          "id": "ZZ-39102",
+          "check": "electorate",
+          "difference": -36
+        },
+        {
+          "id": "ZZ-30430",
+          "check": "electorate",
+          "difference": -16
+        },
+        {
+          "id": "ZZ-30546",
+          "check": "electorate",
+          "difference": -17
+        },
+        {
+          "id": "ZZ-30988",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-38989",
+          "check": "electorate",
+          "difference": -9
+        },
+        {
+          "id": "ZZ-38920",
+          "check": "electorate",
+          "difference": -1
+        },
+        {
+          "id": "ZZ-29831",
+          "check": "electorate",
+          "difference": -15
+        },
+        {
+          "id": "ZZ-30929",
+          "check": "electorate",
+          "difference": -3
+        },
+        {
+          "id": "ZZ-30651",
+          "check": "electorate",
+          "difference": -27
+        },
+        {
+          "id": "ZZ-39284",
+          "check": "electorate",
+          "difference": -10
+        },
+        {
+          "id": "ZZ-30945",
+          "check": "electorate",
+          "difference": -1
+        },
+        {
+          "id": "ZZ-30384",
+          "check": "electorate",
+          "difference": -3
+        },
+        {
+          "id": "ZZ-39241",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-29300",
+          "check": "electorate",
+          "difference": -15
+        },
+        {
+          "id": "ZZ-38881",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-30686",
+          "check": "electorate",
+          "difference": -9
+        },
+        {
+          "id": "ZZ-38962",
+          "check": "electorate",
+          "difference": -29
+        },
+        {
+          "id": "ZZ-38903",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "ZZ-39209",
+          "check": "electorate",
+          "difference": -24
+        },
+        {
+          "id": "ZZ-30295",
+          "check": "electorate",
+          "difference": -6
+        },
+        {
+          "id": "ZZ-30171",
+          "check": "electorate",
+          "difference": -19
+        },
+        {
+          "id": "ZZ-39187",
+          "check": "electorate",
+          "difference": -14
+        },
+        {
+          "id": "ZZ-39263",
+          "check": "electorate",
+          "difference": -13
+        },
+        {
+          "id": "ZZ-29815",
+          "check": "electorate",
+          "difference": -31
+        },
+        {
+          "id": "ZZ-29424",
+          "check": "electorate",
+          "difference": -9
+        },
+        {
+          "id": "ZZ-29637",
+          "check": "electorate",
+          "difference": -224
+        },
+        {
+          "id": "ZZ-29963",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-29769",
+          "check": "electorate",
+          "difference": -7
+        },
+        {
+          "id": "ZZ-39225",
+          "check": "electorate",
+          "difference": -11
+        },
+        {
+          "id": "ZZ-29270",
+          "check": "electorate",
+          "difference": -29
+        },
+        {
+          "id": "ZZ-29858",
+          "check": "electorate",
+          "difference": -16
+        },
+        {
+          "id": "SE",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ",
+          "check": "electorate",
+          "difference": -684
+        },
+        {
+          "id": "BR",
+          "check": "electorate",
+          "difference": -688
+        }
+      ],
+      "cityCount": 5738,
+      "domesticCityCount": 5570,
+      "foreignLocations": 168,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "45": 34897211,
+          "13": 43267668,
+          "43": 630099,
+          "27": 61250,
+          "28": 446878,
+          "50": 1612186,
+          "40": 22176619,
+          "21": 47845,
+          "20": 780513,
+          "29": 12324,
+          "16": 91209
+        },
+        "electorate": 142822046,
+        "abstention": 27698475,
+        "annulledSeparate": 0,
+        "blank": 4420489,
+        "null": 6678592,
+        "valid": 104023802,
+        "turnout": 115122883,
+        "notInstalledElectorate": 0,
+        "sections": 428894,
+        "aggregatedSections": 22853,
+        "notInstalledSections": 0,
+        "lastTotalizationAt": "2018-02-07T00:00:00-03:00"
+      }
+    },
+    {
+      "file": "public/data/round-2-2014.json",
+      "status": "failed",
+      "errors": [
+        {
+          "id": "ZZ-30880",
+          "check": "electorate",
+          "difference": -27
+        },
+        {
+          "id": "ZZ-39263",
+          "check": "electorate",
+          "difference": -13
+        },
+        {
+          "id": "ZZ-29963",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-30669",
+          "check": "electorate",
+          "difference": -5
+        },
+        {
+          "id": "ZZ-29521",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "ZZ-30988",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-29424",
+          "check": "electorate",
+          "difference": -9
+        },
+        {
+          "id": "ZZ-38881",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-38989",
+          "check": "electorate",
+          "difference": -9
+        },
+        {
+          "id": "ZZ-30929",
+          "check": "electorate",
+          "difference": -3
+        },
+        {
+          "id": "ZZ-29815",
+          "check": "electorate",
+          "difference": -31
+        },
+        {
+          "id": "ZZ-39241",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ-30171",
+          "check": "electorate",
+          "difference": -19
+        },
+        {
+          "id": "ZZ-30686",
+          "check": "electorate",
+          "difference": -9
+        },
+        {
+          "id": "ZZ-29300",
+          "check": "electorate",
+          "difference": -15
+        },
+        {
+          "id": "ZZ-29750",
+          "check": "electorate",
+          "difference": -11
+        },
+        {
+          "id": "ZZ-29769",
+          "check": "electorate",
+          "difference": -7
+        },
+        {
+          "id": "ZZ-38962",
+          "check": "electorate",
+          "difference": -29
+        },
+        {
+          "id": "ZZ-30945",
+          "check": "electorate",
+          "difference": -1
+        },
+        {
+          "id": "ZZ-30295",
+          "check": "electorate",
+          "difference": -6
+        },
+        {
+          "id": "ZZ-30430",
+          "check": "electorate",
+          "difference": -16
+        },
+        {
+          "id": "ZZ-30651",
+          "check": "electorate",
+          "difference": -27
+        },
+        {
+          "id": "ZZ-39225",
+          "check": "electorate",
+          "difference": -11
+        },
+        {
+          "id": "ZZ-39209",
+          "check": "electorate",
+          "difference": -24
+        },
+        {
+          "id": "ZZ-38920",
+          "check": "electorate",
+          "difference": -1
+        },
+        {
+          "id": "ZZ-39102",
+          "check": "electorate",
+          "difference": -36
+        },
+        {
+          "id": "ZZ-39187",
+          "check": "electorate",
+          "difference": -14
+        },
+        {
+          "id": "ZZ-29939",
+          "check": "electorate",
+          "difference": -26
+        },
+        {
+          "id": "ZZ-29858",
+          "check": "electorate",
+          "difference": -16
+        },
+        {
+          "id": "ZZ-39284",
+          "check": "electorate",
+          "difference": -10
+        },
+        {
+          "id": "ZZ-30546",
+          "check": "electorate",
+          "difference": -17
+        },
+        {
+          "id": "ZZ-29831",
+          "check": "electorate",
+          "difference": -15
+        },
+        {
+          "id": "ZZ-38903",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "ZZ-29270",
+          "check": "electorate",
+          "difference": -29
+        },
+        {
+          "id": "ZZ-29823",
+          "check": "electorate",
+          "difference": -1
+        },
+        {
+          "id": "ZZ-30384",
+          "check": "electorate",
+          "difference": -3
+        },
+        {
+          "id": "ZZ-29637",
+          "check": "electorate",
+          "difference": -224
+        },
+        {
+          "id": "SE-31950",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "SE-31054",
+          "check": "electorate",
+          "difference": -2
+        },
+        {
+          "id": "SE",
+          "check": "electorate",
+          "difference": -4
+        },
+        {
+          "id": "ZZ",
+          "check": "electorate",
+          "difference": -684
+        },
+        {
+          "id": "BR",
+          "check": "electorate",
+          "difference": -688
+        }
+      ],
+      "cityCount": 5738,
+      "domesticCityCount": 5570,
+      "foreignLocations": 168,
+      "national": {
+        "id": "BR",
+        "uf": "BR",
+        "name": "Brasil",
+        "votes": {
+          "45": 51041155,
+          "13": 54501118
+        },
+        "electorate": 142822046,
+        "abstention": 30137479,
+        "annulledSeparate": 0,
+        "blank": 1921819,
+        "null": 5219787,
+        "valid": 105542273,
+        "turnout": 112683879,
+        "notInstalledElectorate": 0,
+        "sections": 428894,
+        "aggregatedSections": 22853,
+        "notInstalledSections": 0,
+        "lastTotalizationAt": "2014-10-27T00:00:00-03:00"
+      }
+    }
+  ],
+  "independentNationalReference": {
+    "url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.jws",
+    "path": "dados/originais/tse-6257.json",
+    "comparisons": {
+      "candidateVotes": true,
+      "valid": true,
+      "electorate": true,
+      "abstention": true,
+      "blank": true,
+      "null": true,
+      "sections": true,
+      "notInstalledElectorate": true
+    },
+    "status": "passed"
+  }
+}

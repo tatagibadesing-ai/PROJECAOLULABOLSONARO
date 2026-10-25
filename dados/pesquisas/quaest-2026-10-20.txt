@@ -1,0 +1,1266 @@
+            Intenção de voto para Presidente (Espontânea)
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Região
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Sexo
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Idade
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Escolaridade
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Renda familiar
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Religião
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Cor/raça
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) | Bolsa Família
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+            Intenção de voto para Presidente (Espontânea) |
+            Identificação política
+
+
+
+
+Você já escolheu em quem vai votar? (Se sim) Em quem?
+             Intenção de voto para Presidente - 2º turno
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Votos totais
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A linha vai do limite inferior ao superior da margem de erro, e o ponto marca o resultado. A faixa cinza mostra a
+zona em comum dos dois intervalos, quando eles se encontram.
+             Transferência de voto do primeiro para o segundo turno
+
+
+
+
+Você foi na eleição do primeiro turno deste ano, no domingo dia 4 de outubro? (Se sim) Em quem votou para presi-
+dente?
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: Entre parênteses, o voto no 1º turno. Outros soma os demais candidatos.
+             Transferência de voto do primeiro para o segundo turno
+
+
+
+
+Você foi na eleição do primeiro turno deste ano, no domingo dia 4 de outubro? (Se sim) Em quem votou para presi-
+dente?
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe? Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Região
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Sexo
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Idade
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Escolaridade
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Renda familiar
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Religião
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Cor/raça
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Bolsa Família
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Identificação política
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Intenção de voto para Presidente - 2º turno | Interesse nas eleições
+
+
+
+
+Se a eleição de segundo turno para presidente fosse hoje, você votaria em Lula (PT), em Flavio Bolsonaro (PL), votaria
+em branco/nulo, não iria votar ou ainda não sabe?
+Nota: A área sombreada representa a margem de erro.
+             Sua escolha de voto é definitiva ou ainda pode mudar?
+
+
+
+
+Você diria que a sua intenção de votar em ___ é definitiva ou ainda pode mudar caso algo aconteça até as eleições?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+             Sua escolha de voto é definitiva ou ainda pode mudar? |
+             Intenção de voto - 2º turno
+
+
+
+
+Você diria que a sua intenção de votar em ___ é definitiva ou ainda pode mudar caso algo aconteça até as eleições?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados. Os grupos são a intenção de voto no 2º turno em todas as pesquisas.
+             Conhecimento, potencial de voto e rejeição de lideranças nacionais
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Região
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Sexo
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Idade
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Escolaridade
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Renda familiar
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Religião
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Cor/raça
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Bolsa Família
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             Conhecimento, potencial de voto e rejeição | Identificação política
+
+
+
+
+Em relação ao/à ___, você diria que: não conhece, conhece e poderia votar nele(a), ou conhece mas não
+votaria nele(a) de jeito nenhum?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro?
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Região
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? | Sexo
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? | Idade
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Escolaridade
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Renda familiar
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Religião
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Cor/raça
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Bolsa Família
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+             O que dá mais medo: reeleição de Lula ou volta dos Bolsonaro? |
+             Identificação política
+
+
+
+
+O que te dá mais medo hoje: mais um governo Lula ou a família Bolsonaro voltar ao poder?
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Série histórica
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Região
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Sexo
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Idade
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Escolaridade
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Renda familiar
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Religião
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Cor/raça
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Bolsa Família
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Quem você acha que vai ganhar a eleição para presidente deste ano? |
+            Identificação política
+
+
+
+
+Independente de quem você vai votar, quem você acha que vai ganhar a eleição para presidente deste ano?
+Nota: Até 03/10, pesquisas realizadas antes da eleição do 1º turno, com todos os candidatos do cenário estimulado
+apresentados.
+            Aprovação do governo Lula
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Região
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Sexo
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Idade
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Escolaridade
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Renda familiar
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Religião
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Cor/raça
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Aprovação do governo Lula | Identificação política
+
+
+
+
+Você aprova ou desaprova o trabalho que o presidente Lula vem fazendo até aqui?
+            Avaliação do governo Lula
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Região
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Sexo
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Idade
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Escolaridade
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Renda familiar
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Religião
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Cor/raça
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+            Avaliação do governo Lula | Identificação política
+
+
+
+
+Para você, o presidente Lula está fazendo um governo ótimo, bom, regular, ruim ou péssimo?
+Nota: Avaliação positiva corresponde à soma de ótimo e bom; e negativa, à soma de ruim e péssimo.
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro?
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Região
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Sexo
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Idade
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Escolaridade
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Renda familiar
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Religião
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Cor/raça
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             Lula está fazendo um governo melhor, igual ou
+             pior do que o de Bolsonaro? | Identificação política
+
+
+
+
+Você acha que o presidente Lula está fazendo um governo melhor, igual ou pior do que o do ex-presidente
+Bolsonaro?
+             O Brasil está indo na direção certa ou na direção errada?
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? | Região
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? | Sexo
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? | Idade
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? |
+             Escolaridade
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? |
+             Renda familiar
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? | Religião
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? | Cor/raça
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             O Brasil está indo na direção certa ou na direção errada? |
+             Identificação política
+
+
+
+
+Na sua opinião, o Brasil está indo na direção certa ou na direção errada?
+             Renda e custo de vida no Brasil | Affordability
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Região
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Sexo
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Idade
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Escolaridade
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Renda familiar
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Religião
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Cor/raça
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability | Bolsa Família
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Renda e custo de vida no Brasil | Affordability |
+             Identificação política
+
+
+
+
+Pensando no que sua família ganha e no aumento dos preços no último ano, você diria que...
+             Qual o seu nível de interesse nas eleições deste ano?
+
+
+
+
+Você diria que está muito interessado(a), pouco(a) interessado(a) ou nada interessado(a) nas eleições
+deste ano?
+             Qual é a sua maior preocupação sobre o Brasil hoje?
+
+
+
+
+Qual é a sua maior preocupação sobre o Brasil hoje?
+No gráfico, apresentamos apenas as seis categorias mais citadas nesta rodada.
+             Como você se informa sobre política?
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Região
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Sexo
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Idade
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Escolaridade
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Renda familiar
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Religião
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Cor/raça
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+             Como você se informa sobre política? | Identificação política
+
+
+
+
+Dentre as opções que vou ler, através de qual fonte você mais se informa sobre política?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno?
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Região
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Sexo
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Idade
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Escolaridade
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Renda familiar
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Religião
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Cor/raça
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Identificação política
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Voto no 1º turno
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+            Os candidatos deveriam anunciar seus ministros antes do 2º turno? |
+            Intenção de voto - 2º turno
+
+
+
+
+Você acha que os candidatos a presidente deveriam anunciar quem serão seus ministros antes da votação do segundo
+turno, incluindo quem vai cuidar da economia?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for?
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Região
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Sexo
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Idade
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Escolaridade
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Renda familiar
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Religião
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Cor/raça
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Identificação política
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Voto no 1º turno
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+             Qual você acha que deve ser o principal desafio do próximo
+             presidente, seja ele quem for? | Intenção de voto - 2º turno
+
+
+
+
+Qual você acha que deve ser o principal desafio do próximo presidente, seja ele quem for?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra?
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Região
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Sexo
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Idade
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Escolaridade
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Renda familiar
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Religião
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Cor/raça
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Identificação política
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Voto no 1º turno
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            No último mês, você ficou sabendo de alguma medida anunciada pelo
+            governo Lula? Se sim, qual? Alguma outra? | Intenção de voto - 2º turno
+
+
+
+
+No último mês, você ficou sabendo de alguma medida anunciada pelo governo Lula? Se sim, qual? Alguma
+outra?
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___?
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Região
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Sexo
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Idade
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Escolaridade
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Renda familiar
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Religião
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Cor/raça
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Identificação política
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Voto no 1º turno
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+            Na sua opinião, as medidas que o governo Lula anunciou nas últimas
+            semanas foram principalmente ___ ou ___? | Intenção de voto - 2º turno
+
+
+
+
+Na sua opinião, as medidas que o governo Lula anunciou nas últimas semanas foram principalmente ___ ou ___?
+Nota: Pergunta aplicada a quem ficou sabendo de alguma medida anunciada pelo governo Lula.
+             Características mais importantes para um presidente
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Região
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Sexo
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Idade
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Escolaridade
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Renda familiar
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Religião
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Cor/raça
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente | Bolsa Família
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente |
+             Identificação política
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente |
+             Voto no 1º turno
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Características mais importantes para um presidente |
+             Intenção de voto - 2º turno
+
+
+
+
+Vou ler agora uma lista sempre com duas características e gostaria que você me dissesse qual das duas você acha mais
+importante para um presidente hoje. O que você acha mais importante: um presidente que ___ ou um presidente que
+___?
+             Posicionamento do eleitorado e dos candidatos na escala ideológica
+
+
+
+
+Nesta escala em que 0 seria “extrema esquerda” e 10 “extrema direita”, e o ponto central significa que você se considera
+um eleitor “de centro”, onde você se posicionaria nesta escala? E onde você posicionaria os candidatos Lula e Flávio
+Bolsonaro?
+            Voto para presidente no 1º turno
+
+
+
+
+Você foi na eleição do primeiro turno deste ano, no domingo dia 4 de outubro? (Se sim) Em quem votou
+para presidente?
+             Nessa escala de posições políticas, em qual grupo você se encaixa?
+
+
+
+
+Nessa escala de posições políticas, em qual grupo você se encaixa?
+Região
+Sexo
+Idade
+Escolaridade
+Soma da renda de todos os moradores do domicílio
+(salários, bicos, benefícios sociais, pensões e outras fontes)
+Religião
+Cor/raça
+Bolsa Família
+

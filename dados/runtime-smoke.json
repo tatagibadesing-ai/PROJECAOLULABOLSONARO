@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-24T23:54:11.034Z",
+  "kind": "production-instance-smoke",
+  "published": false,
+  "homeStatus": 200,
+  "documentationStatus": 200,
+  "live": {
+    "status": "waiting",
+    "source": "TSE",
+    "generatedAt": "2026-10-24T22:19:13.000Z",
+    "fetchedAt": "2026-10-24T23:53:56.115Z",
+    "electionId": "6258",
+    "sections": {
+      "total": 499248,
+      "counted": 0,
+      "percent": 0
+    },
+    "states": 28,
+    "statesComplete": true,
+    "statesReconciled": true,
+    "stateIssues": []
+  },
+  "replay": {
+    "complete": true,
+    "valid": 119300788,
+    "candidates": 12
+  }
+}

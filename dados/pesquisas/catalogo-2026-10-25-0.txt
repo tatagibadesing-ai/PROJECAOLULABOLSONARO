@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://datafolha.folha.uol.com.br/eleicoes/2026/10/flavio-bolsonaro-pl-tem-47-e-tem-empate-tecnico-com-lula-pt-que-aparece-com-46.shtml</loc>
+    <news:news>
+      <news:publication>
+        <news:name><![CDATA[Datafolha]]></news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:genres>PressRelease</news:genres>
+      <news:publication_date>2026-10-23T11:37-03:00</news:publication_date>
+      <news:title><![CDATA[Flávio Bolsonaro (PL) tem 47% e tem empate técnico com Lula (PT), que aparece com 46%]]></news:title>
+      <news:keywords>lula,pt,datafolha,pesquisa-datafolha,flavio-bolsonaro,pl</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://datafolha.folha.uol.com.br/eleicoes/2026/10/estaveis-celina-leao-pp-lidera-com-60-dos-votos-validos-ante-40-de-leandro-grass-pt.shtml</loc>
+    <news:news>
+      <news:publication>
+        <news:name><![CDATA[Datafolha]]></news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:genres>PressRelease</news:genres>
+      <news:publication_date>2026-10-23T11:36-03:00</news:publication_date>
+      <news:title><![CDATA[Estáveis, Celina Leão (PP) lidera com 60% dos votos válidos, ante 40% de Leandro Grass (PT)]]></news:title>
+      <news:keywords>datafolha,pesquisa-datafolha,brasilia,distrito-federal</news:keywords>
+    </news:news>
+  </url>
+</urlset>

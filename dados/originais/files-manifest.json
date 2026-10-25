@@ -1,0 +1,400 @@
+{
+  "createdAt": "2026-10-24T23:48:56.160276+00:00",
+  "files": [
+    {
+      "path": "dados/originais/BR_UF_2022.zip",
+      "sha256": "282ec7f0f0beeeead45e6609f4ffffce161bda04cb8ee0afcad2316d1c841bcb",
+      "bytes": 13717460
+    },
+    {
+      "path": "dados/originais/detalhe_votacao_munzona_2014.zip",
+      "sha256": "f9195f8988edabd5db03fdef31ad33b21ad0f02c75c8a8fa30c468ed5642460a",
+      "bytes": 3937094
+    },
+    {
+      "path": "dados/originais/detalhe_votacao_munzona_2018.zip",
+      "sha256": "df68c258a2261dff37b379f65ea5f2e8de7b3d824bb2340d8f4830274a3fabb5",
+      "bytes": 4269741
+    },
+    {
+      "path": "dados/originais/detalhe_votacao_munzona_2022.zip",
+      "sha256": "dbf41c5e95c2efedc72848bd0ec70a47f419b539c82e893388314749617ea2f4",
+      "bytes": 4429327
+    },
+    {
+      "path": "dados/originais/detalhe_votacao_munzona_2026.zip",
+      "sha256": "05ff45923b1cec926ce7005b6d1a3829a70c90b70e886f18bac71533bad34bc6",
+      "bytes": 2514522
+    },
+    {
+      "path": "dados/originais/downloads-manifest.json",
+      "sha256": "d6fece745da788a590a5aa0bdb12ed7edef7851000e27570ef9f9d87b86e8cce",
+      "bytes": 3936
+    },
+    {
+      "path": "dados/originais/ele-c.json",
+      "sha256": "91d1c4fe50dbe92067b83677d77a4f1856f5deca69a04b013a679ff690791721",
+      "bytes": 26574
+    },
+    {
+      "path": "dados/originais/ele-c.jws",
+      "sha256": "8738768cf947ce7d617baa42b62e42bf061cb63c5921788e8c5d3fcd314f0b5d",
+      "bytes": 35606
+    },
+    {
+      "path": "dados/originais/resultados-main.js",
+      "sha256": "1ea3f8018eb83d25ff3222692104f3a31dd2c3f7103ce06d6efd134e06649268",
+      "bytes": 768519
+    },
+    {
+      "path": "dados/originais/tse-6257.json",
+      "sha256": "2866703eb4fc0ad6f17f0e081a00ab1175490b0786325e700cff1d8b40d25bca",
+      "bytes": 9349
+    },
+    {
+      "path": "dados/originais/tse-6257.jws",
+      "sha256": "801a0371fc55275acc8f2e737a74ab6b272a8e7f6f4fe5ad51118beca2cc89c0",
+      "bytes": 12640
+    },
+    {
+      "path": "dados/originais/tse-6258.json",
+      "sha256": "a233e1939051badf680ceea2cb7e7ba347920c44843f8cade7a2bab4e299106c",
+      "bytes": 2864
+    },
+    {
+      "path": "dados/originais/tse-6258.jws",
+      "sha256": "b60c6a6506d6474b7379579d3239d194f72b82a55735ebb3d01b9ffec2f2a41b",
+      "bytes": 3993
+    },
+    {
+      "path": "dados/originais/tse-dadosabertos-2014.html",
+      "sha256": "a902962a672805e4df34a6a809f9d7c2f7206290b9d4e3763a69035c303cef47",
+      "bytes": 149355
+    },
+    {
+      "path": "dados/originais/tse-dadosabertos-2018.html",
+      "sha256": "747688b6b2a07ecb0e5838471908b6ba530015ed298fb81755afc96f973a2aac",
+      "bytes": 149339
+    },
+    {
+      "path": "dados/originais/tse-dadosabertos-2022.html",
+      "sha256": "6f7f3e29237b4057bf15c7dce3fb5730507331ff95d61542d4e11684819c7416",
+      "bytes": 153308
+    },
+    {
+      "path": "dados/originais/tse-dadosabertos-2026.html",
+      "sha256": "a50dd31d170f91a48bc07c8307e4e1ee211638651dd95b46480d8e40b44e6cc8",
+      "bytes": 195537
+    },
+    {
+      "path": "dados/originais/tse-eleicoes-2026.html",
+      "sha256": "dd6af5f43e082604d77c86d1383b14c8b12bc97f15204e2192b647222fcefced",
+      "bytes": 145082
+    },
+    {
+      "path": "dados/originais/tse-resultados-index.html",
+      "sha256": "ca8d017923bea480a2c00bcc20e4d856dc94e0d0d271e276c2f03ba1442856a6",
+      "bytes": 17414
+    },
+    {
+      "path": "dados/originais/uf-6257/ac.json",
+      "sha256": "c67559bc6e31b503162fcdd74604f00ce877efc4b90d7fdea8b48a0e634b4b0e",
+      "bytes": 9293
+    },
+    {
+      "path": "dados/originais/uf-6257/ac.jws",
+      "sha256": "598ab0bf2a74c8a4f96ffa0df80479536bbc810a8f3a9829c0eacab69418bcf4",
+      "bytes": 12565
+    },
+    {
+      "path": "dados/originais/uf-6257/al.json",
+      "sha256": "96e234bc2a91d872d54a9951fbd60dce9b54ad0dc1fe347e322d89d25be187d4",
+      "bytes": 9324
+    },
+    {
+      "path": "dados/originais/uf-6257/al.jws",
+      "sha256": "ff319e24f8e04439007fc75c341f0c861c102a3091851470713b7cf943735d6c",
+      "bytes": 12606
+    },
+    {
+      "path": "dados/originais/uf-6257/am.json",
+      "sha256": "8cbbec68324aec9f02df666154d47b2ee00f8c6380a099c7442721adf45214e7",
+      "bytes": 9329
+    },
+    {
+      "path": "dados/originais/uf-6257/am.jws",
+      "sha256": "53ea3318b1ebf34919f1a3f79151a7b0c792d1f41ee715b94bf944522598a241",
+      "bytes": 12613
+    },
+    {
+      "path": "dados/originais/uf-6257/ap.json",
+      "sha256": "42c0d70f1abefdc5e5c5f75f4d341a66c373b34863685f22bc31aa742ec6a062",
+      "bytes": 9294
+    },
+    {
+      "path": "dados/originais/uf-6257/ap.jws",
+      "sha256": "ba5df3e870ff2da61eeecdb979e7ea51b88020813bc7f48738ca744baaa7fd26",
+      "bytes": 12566
+    },
+    {
+      "path": "dados/originais/uf-6257/ba.json",
+      "sha256": "b50778a7cb0f9763994873ea045e95da1ee962577675dfcb99786f2853208415",
+      "bytes": 9365
+    },
+    {
+      "path": "dados/originais/uf-6257/ba.jws",
+      "sha256": "02ce804b9b007c4e886694a551e0704ced707d37af90f19673000bd3ccb8fffc",
+      "bytes": 12661
+    },
+    {
+      "path": "dados/originais/uf-6257/ce.json",
+      "sha256": "ff65f98d1f1462c8230a2856f6c0e46ee7fb2a8f8ac7f1bf60979c6b1eea5f07",
+      "bytes": 9355
+    },
+    {
+      "path": "dados/originais/uf-6257/ce.jws",
+      "sha256": "abcbf1476fe67eb01aa2e3765dac65a9be64d03287ba2c458c9a019c7943b645",
+      "bytes": 12648
+    },
+    {
+      "path": "dados/originais/uf-6257/df.json",
+      "sha256": "6fa13cd7f0b3024777891dbe94723e7e39ecbba76bdc702e9f81428826a7283a",
+      "bytes": 9324
+    },
+    {
+      "path": "dados/originais/uf-6257/df.jws",
+      "sha256": "5c6dfbad0d157e83152899e64f926132be42488fe77b4a70fe72c437b27c170c",
+      "bytes": 12606
+    },
+    {
+      "path": "dados/originais/uf-6257/es.json",
+      "sha256": "9e8036ad95dfc1fa119b26164bba9201fa6562c007418c773f13e7f5b6fe319d",
+      "bytes": 9328
+    },
+    {
+      "path": "dados/originais/uf-6257/es.jws",
+      "sha256": "f95aa31c9db104f967445eaffbc1ee7bc8dd8d0775cf0d46d3dd4eec0f0dc266",
+      "bytes": 12612
+    },
+    {
+      "path": "dados/originais/uf-6257/go.json",
+      "sha256": "0bca25dc783c2b3c711f0cfe7432fe9e10d78d5ef8449c6d1368740bbe2dc1d6",
+      "bytes": 9343
+    },
+    {
+      "path": "dados/originais/uf-6257/go.jws",
+      "sha256": "ff53ae6e6df147ccddcff41a51387a59ef50bec641f15663a97630cf86e0fd2e",
+      "bytes": 12632
+    },
+    {
+      "path": "dados/originais/uf-6257/ma.json",
+      "sha256": "22daf14542c35a384967da16c71ca02b5292b5703d4ef09357dc1a1a65b9a41d",
+      "bytes": 9343
+    },
+    {
+      "path": "dados/originais/uf-6257/ma.jws",
+      "sha256": "a3d30f6de861c0aabc82d44a240bc424bd2f79f7d26055f30e1d43916bf941da",
+      "bytes": 12632
+    },
+    {
+      "path": "dados/originais/uf-6257/mg.json",
+      "sha256": "d01c373751e029fdba347cce9f367679707bfb897f3942b3e233a273b87db199",
+      "bytes": 9382
+    },
+    {
+      "path": "dados/originais/uf-6257/mg.jws",
+      "sha256": "5148c6c4affdc59bca2c225c1f3a92c8b01b223e498273b7fb828212035a1aab",
+      "bytes": 12684
+    },
+    {
+      "path": "dados/originais/uf-6257/ms.json",
+      "sha256": "35a5e50df19afeea34928eb3810f53cbcd122730c27d4d2fb2a52cdbd3ae6b19",
+      "bytes": 9324
+    },
+    {
+      "path": "dados/originais/uf-6257/ms.jws",
+      "sha256": "37c1e40f8990ec2813bb4e6bd78984415cf2bdf6253d0e9c4f75b606071951f7",
+      "bytes": 12606
+    },
+    {
+      "path": "dados/originais/uf-6257/mt.json",
+      "sha256": "0e7250b701d2889ba864082682e5ff5e14593bbac0a978c7d1ee88e6b42e285e",
+      "bytes": 9330
+    },
+    {
+      "path": "dados/originais/uf-6257/mt.jws",
+      "sha256": "264e3d07c44d954b669da11bb83fd3d56b8d15dd839323a5dd0c39f2bf6f8fd3",
+      "bytes": 12614
+    },
+    {
+      "path": "dados/originais/uf-6257/pa.json",
+      "sha256": "669dbc9548fb9a1f8ebb47a656234364c4aa18eb69c15f7b80634d16e23c2989",
+      "bytes": 9351
+    },
+    {
+      "path": "dados/originais/uf-6257/pa.jws",
+      "sha256": "93e9b5217319a0f1fc4df14cec68e31fc58327990971586c8fda7f1f4e2f0baf",
+      "bytes": 12642
+    },
+    {
+      "path": "dados/originais/uf-6257/pb.json",
+      "sha256": "7da03ae14bac3cf830d723ef04a02d5f830dc696ca9480647e76f1e146648e00",
+      "bytes": 9335
+    },
+    {
+      "path": "dados/originais/uf-6257/pb.jws",
+      "sha256": "1be8db0a6a884b3255a44c18ab60c7de4b98124fdd97174d761233f3adb4b0c0",
+      "bytes": 12621
+    },
+    {
+      "path": "dados/originais/uf-6257/pe.json",
+      "sha256": "a18f9e0ec8f7073b3a9ff932321ae8592d3a906b875a33e080c2abb2444510bf",
+      "bytes": 9349
+    },
+    {
+      "path": "dados/originais/uf-6257/pe.jws",
+      "sha256": "3feabc972d60cd5abbdb984e2ad81d7b06e5a756be960ee003008cd41742bd9b",
+      "bytes": 12640
+    },
+    {
+      "path": "dados/originais/uf-6257/pi.json",
+      "sha256": "d6dac2da5cbff871ab4c323beae7df6902ccb6e9c7a6b38e17518b2eac8842a2",
+      "bytes": 9333
+    },
+    {
+      "path": "dados/originais/uf-6257/pi.jws",
+      "sha256": "f43472a019bcdb8cd8a857860aa42f0fcacd85b27127925020ade31ab2ef4f74",
+      "bytes": 12618
+    },
+    {
+      "path": "dados/originais/uf-6257/pr.json",
+      "sha256": "d54aff50901472503eece5aabdce59518e67fd57cb7e7337b81132f995d72d02",
+      "bytes": 9364
+    },
+    {
+      "path": "dados/originais/uf-6257/pr.jws",
+      "sha256": "8b1c24e19846746891270468ca3f2d4395ba57de08e67d5ba4fb20a8a0bde87d",
+      "bytes": 12660
+    },
+    {
+      "path": "dados/originais/uf-6257/rj.json",
+      "sha256": "8a67b766e614b72140c0f6e026a097e4b20098f0c66cd528bb6a7aed194fda6a",
+      "bytes": 9377
+    },
+    {
+      "path": "dados/originais/uf-6257/rj.jws",
+      "sha256": "eee941db0c4a7e35fc3ec9896414d6212f673b272dc4f7c682071cc83359649a",
+      "bytes": 12677
+    },
+    {
+      "path": "dados/originais/uf-6257/rn.json",
+      "sha256": "87e559952a7a66a7592b8a9617e53af7e5748ee73d7802807e8e5a05e33df7f4",
+      "bytes": 9329
+    },
+    {
+      "path": "dados/originais/uf-6257/rn.jws",
+      "sha256": "1e3d4c86a66ac804660c9a4c86e018c623609593c8179ab49f2282e005ea56f6",
+      "bytes": 12613
+    },
+    {
+      "path": "dados/originais/uf-6257/ro.json",
+      "sha256": "c696369d5397d28e78c8313e5dd767728e995825bb053f1035b83f2688e68c31",
+      "bytes": 9309
+    },
+    {
+      "path": "dados/originais/uf-6257/ro.jws",
+      "sha256": "870a91ea0b9e6fd8462cfab0d5f5166903ad25abb9bdaf8284bc4568e19b476d",
+      "bytes": 12586
+    },
+    {
+      "path": "dados/originais/uf-6257/rr.json",
+      "sha256": "9bf774caceab5460c906ca3120dfbe72039b92bd852d21fc77e6a728253e0218",
+      "bytes": 9277
+    },
+    {
+      "path": "dados/originais/uf-6257/rr.jws",
+      "sha256": "6b377fad1df524deb2d209dc78431753be9f0d0405b975f826aa21789930cbad",
+      "bytes": 12544
+    },
+    {
+      "path": "dados/originais/uf-6257/rs.json",
+      "sha256": "7a56c5d75aa8a0aa75127e72814a7cbbbf9876b96f1d77a0c3154b95fd43371c",
+      "bytes": 9367
+    },
+    {
+      "path": "dados/originais/uf-6257/rs.jws",
+      "sha256": "186999ab4cb59f979a2dd29e17331981ed8bb6141094da3ddb5e06375c9e2ab6",
+      "bytes": 12664
+    },
+    {
+      "path": "dados/originais/uf-6257/sc.json",
+      "sha256": "b51645c4cf68c1fe4761acdafd1214325c259661eb6522b286b97ab1b1d13381",
+      "bytes": 9355
+    },
+    {
+      "path": "dados/originais/uf-6257/sc.jws",
+      "sha256": "0228dbb75f389b9773ecdceb574a8ff411b0b521aea690e93985048a176b19b6",
+      "bytes": 12648
+    },
+    {
+      "path": "dados/originais/uf-6257/se.json",
+      "sha256": "c163da0f27c4b0bbdcc34359c87b88607d5823573c813d5835afff339340be77",
+      "bytes": 9321
+    },
+    {
+      "path": "dados/originais/uf-6257/se.jws",
+      "sha256": "b51f6a203795619fcb2bc8baf0864468b08d6998a927694d79561b357ee96bdd",
+      "bytes": 12602
+    },
+    {
+      "path": "dados/originais/uf-6257/sp.json",
+      "sha256": "6e417d16de88b97e27abffc58f404e753ee73a34142da0bb266821d903e67c68",
+      "bytes": 9396
+    },
+    {
+      "path": "dados/originais/uf-6257/sp.jws",
+      "sha256": "9308321fbe766d6566ac245afc1f60e7d0b6fe90453049fa7907fcbbe01ec6c8",
+      "bytes": 12702
+    },
+    {
+      "path": "dados/originais/uf-6257/to.json",
+      "sha256": "76150bdef9fdbf557decc1d7e073b1fa361849316bb6cce5b8f6208ac48cdbd5",
+      "bytes": 9306
+    },
+    {
+      "path": "dados/originais/uf-6257/to.jws",
+      "sha256": "b34d1f9348142fc508d71df0bb0ed24b00db6739f0f83eab624c0b0318bfc9bf",
+      "bytes": 12582
+    },
+    {
+      "path": "dados/originais/uf-6257/zz.json",
+      "sha256": "9e8c762a6fdf924b46836cc246c8a32a41ec7f8f60ba2b1905cc8bd4a33dec03",
+      "bytes": 9341
+    },
+    {
+      "path": "dados/originais/uf-6257/zz.jws",
+      "sha256": "44cf73f04c20740eadfef0137dab2b47fb3c39d294cb975a51f2b31a21c3dc9e",
+      "bytes": 12629
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2014_BR.csv.gz",
+      "sha256": "d43cb87a2efbe88b0af1370814f5c0d5bbe1faa010667769972aa4ddce5faff5",
+      "bytes": 664728
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2018_BR.csv.gz",
+      "sha256": "357f1af4df89ac24fc1208ab65e8b9254b3524e379850fdca1e419ef0a9fd6b5",
+      "bytes": 2299038
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2022_BR.csv.gz",
+      "sha256": "4a2add2d0fe325877f93a64add299dbbfc2d9e8af7ceafb5d0f9a6b92471e0ac",
+      "bytes": 1944487
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2026_BR.csv.gz",
+      "sha256": "7277b25f7e75ee472c20256ebec5e26a0315155579b043f4c0ca48db226c19f1",
+      "bytes": 1685226
+    }
+  ]
+}

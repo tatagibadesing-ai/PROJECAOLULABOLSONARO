@@ -1,0 +1,1112 @@
+{
+  "generatedAt": "2026-10-25T00:17:53.547Z",
+  "kind": "backtest-2022",
+  "status": "conditional-measured",
+  "validated": false,
+  "candidateOrder": [
+    {
+      "number": "22",
+      "name": "Jair Bolsonaro"
+    },
+    {
+      "number": "13",
+      "name": "Lula"
+    }
+  ],
+  "simulations": 20000,
+  "assumptionsVersion": "conditional-v1",
+  "calibration": {
+    "applied": true,
+    "targetShare": 0.4799999999999999,
+    "behaviorReferenceYear": 2018,
+    "historicalErrorYears": [
+      2014,
+      2018
+    ],
+    "historicalRmseLogit": 0.010876883079452379,
+    "historicalDegreesFreedom": 1,
+    "nationalStructuralAssumption": 0.12,
+    "varianceCombination": "hypot(historical RMSE, assumed independent structural SD)",
+    "uncertainty": {
+      "national": 0.12049193576967744,
+      "regional": 0.12,
+      "city": 0.16,
+      "turnout": 0.08,
+      "invalid": 0.1
+    }
+  },
+  "inputHashes": [
+    {
+      "path": "dados/model-assumptions.json",
+      "sha256": "ce85fbb2571eee656a75d0dc23039046240d78f7549832862c79d9ef69349423"
+    },
+    {
+      "path": "dados/transferencias-2022.json",
+      "sha256": "8d0546659d833e961dc30668b780fc23d8eb18c99e0cce3930501d8fefadf424"
+    },
+    {
+      "path": "public/data/round-1-2022.json",
+      "sha256": "9b904966d01cb774efc9c91f37278f402f3924b5a21295c27e70c96082c3a7b5"
+    },
+    {
+      "path": "public/data/round-2-2022.json",
+      "sha256": "dcb73b818a9e5a682973dfca0544e2b3b594c663b532a5f4691a2bd37fafd58d"
+    },
+    {
+      "path": "public/data/round-1-2018.json",
+      "sha256": "1bc771b4fc09da56586bc8858337e5427b6e2ac6c4fe565bf5e539e37853de40"
+    },
+    {
+      "path": "public/data/round-2-2018.json",
+      "sha256": "3c59735d1aebddf5a3c96530a0a681370ae8a032f1340989f8570f7a628778ed"
+    },
+    {
+      "path": "public/data/historical-error.json",
+      "sha256": "3c6b62a96726384dbfdc659a6741a799575a221caf2e4261be56213b977498a1"
+    },
+    {
+      "path": "dados/pesquisas-evidencias.json",
+      "sha256": "2bc3fc11ed2934e9348edd21d6dd572fee34e76ccd0448a716fa61c5f5a43105"
+    },
+    {
+      "path": "lib/forecast.ts",
+      "sha256": "0881e7f87a095909f6a448ee44ff10f91eecc0505aa3b50bb61349a14f56708a"
+    },
+    {
+      "path": "public/model-worker.js",
+      "sha256": "61f61f99cf1206d33f3e095b59bb4cd400b8d7e528214e8f266bb67309204d78"
+    }
+  ],
+  "pollAverage": {
+    "share": 0.4799999999999999,
+    "asOf": "2022-10-29T23:59:59Z",
+    "polls": [
+      {
+        "id": "datafolha-2022-10-29",
+        "share": 0.48,
+        "weight": 91.14823092084673,
+        "sourceUrl": "https://media.folha.com.br/datafolha/2022/10/31/intencao-de-voto-presidente-2-turno.pdf",
+        "institute": "Datafolha",
+        "fieldEnd": "2022-10-29",
+        "sample": 8308,
+        "registration": "BR-08297/2022",
+        "normalizedWeight": 1
+      }
+    ],
+    "completeCatalog": false,
+    "registrationVerifiedDirectly": false
+  },
+  "results": {
+    "pollOnly": {
+      "label": "Transferência condicional e calibração à pesquisa; correção de instituto zero",
+      "year": 2022,
+      "candidateNumbers": [
+        "22",
+        "13"
+      ],
+      "national": {
+        "id": "BR",
+        "projectedShare": 0.4801783093277725,
+        "actualShare": 0.49097594882827844,
+        "shareErrorPp": -1.079763950050594,
+        "marginErrorPp": -2.159527900101188,
+        "interval80": [
+          0.4405116586072422,
+          0.5199899152159762
+        ],
+        "insideInterval80": true
+      },
+      "states": [
+        {
+          "id": "AC",
+          "projectedShare": 0.6639517356079497,
+          "actualShare": 0.7030020815213673,
+          "shareErrorPp": -3.9050345913417606,
+          "marginErrorPp": -7.810069182683521,
+          "interval80": [
+            0.6115937933365918,
+            0.7145803002773391
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "AL",
+          "projectedShare": 0.41047331610940047,
+          "actualShare": 0.4131941816276977,
+          "shareErrorPp": -0.2720865518297255,
+          "marginErrorPp": -0.544173103659451,
+          "interval80": [
+            0.35990789865616746,
+            0.46161394363887004
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "AP",
+          "projectedShare": 0.49545831292473774,
+          "actualShare": 0.5136106949406477,
+          "shareErrorPp": -1.8152382015909962,
+          "marginErrorPp": -3.6304764031819925,
+          "interval80": [
+            0.4334446454030116,
+            0.5565556544687915
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "AM",
+          "projectedShare": 0.4770966070010193,
+          "actualShare": 0.48900460255896583,
+          "shareErrorPp": -1.1907995557946527,
+          "marginErrorPp": -2.3815991115893054,
+          "interval80": [
+            0.42021341421155345,
+            0.5333542489786898
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "BA",
+          "projectedShare": 0.29369322208008314,
+          "actualShare": 0.27877844686175723,
+          "shareErrorPp": 1.4914775218325904,
+          "marginErrorPp": 2.982955043665181,
+          "interval80": [
+            0.2502942064582298,
+            0.33852347272790806
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "CE",
+          "projectedShare": 0.3123590495308313,
+          "actualShare": 0.3003246013500006,
+          "shareErrorPp": 1.2034448180830715,
+          "marginErrorPp": 2.406889636166143,
+          "interval80": [
+            0.26629165613124656,
+            0.3598246540676456
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "DF",
+          "projectedShare": 0.5752843226836768,
+          "actualShare": 0.5881145990175226,
+          "shareErrorPp": -1.2830276333845814,
+          "marginErrorPp": -2.5660552667691627,
+          "interval80": [
+            0.5015359191134096,
+            0.6466020266859275
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "ES",
+          "projectedShare": 0.562720873165334,
+          "actualShare": 0.5804418645921612,
+          "shareErrorPp": -1.7720991426827148,
+          "marginErrorPp": -3.5441982853654297,
+          "interval80": [
+            0.5094540270078485,
+            0.6160367113849401
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "GO",
+          "projectedShare": 0.5657103083677625,
+          "actualShare": 0.5871350487101475,
+          "shareErrorPp": -2.1424740342385062,
+          "marginErrorPp": -4.2849480684770125,
+          "interval80": [
+            0.5116018816182055,
+            0.6185667355881618
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MA",
+          "projectedShare": 0.30567948767191455,
+          "actualShare": 0.2886427022580131,
+          "shareErrorPp": 1.7036785413901467,
+          "marginErrorPp": 3.4073570827802935,
+          "interval80": [
+            0.26147101008096535,
+            0.3506546145397593
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MT",
+          "projectedShare": 0.6266996224167325,
+          "actualShare": 0.650826203145627,
+          "shareErrorPp": -2.412658072889451,
+          "marginErrorPp": -4.825316145778902,
+          "interval80": [
+            0.5763520376164482,
+            0.6754276383951396
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MS",
+          "projectedShare": 0.5710828285411997,
+          "actualShare": 0.5949425498580214,
+          "shareErrorPp": -2.385972131682168,
+          "marginErrorPp": -4.771944263364336,
+          "interval80": [
+            0.5157514805026695,
+            0.6252063966185935
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MG",
+          "projectedShare": 0.485704505735046,
+          "actualShare": 0.4979869886079367,
+          "shareErrorPp": -1.2282482872890743,
+          "marginErrorPp": -2.4564965745781486,
+          "interval80": [
+            0.4332109290655091,
+            0.5385946236528621
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PA",
+          "projectedShare": 0.4505896657236922,
+          "actualShare": 0.45252116581812835,
+          "shareErrorPp": -0.1931500094436156,
+          "marginErrorPp": -0.3863000188872312,
+          "interval80": [
+            0.3991788459625414,
+            0.502334544856566
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PB",
+          "projectedShare": 0.34362260862196203,
+          "actualShare": 0.3337562982047907,
+          "shareErrorPp": 0.9866310417171342,
+          "marginErrorPp": 1.9732620834342685,
+          "interval80": [
+            0.2967037411929682,
+            0.3910609069853774
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PR",
+          "projectedShare": 0.597228838242787,
+          "actualShare": 0.6239687138273506,
+          "shareErrorPp": -2.673987558456359,
+          "marginErrorPp": -5.347975116912718,
+          "interval80": [
+            0.5452883414082224,
+            0.6488228184103824
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PE",
+          "projectedShare": 0.3416350137255238,
+          "actualShare": 0.33068193203199037,
+          "shareErrorPp": 1.0953081693533429,
+          "marginErrorPp": 2.1906163387066857,
+          "interval80": [
+            0.29459914585031083,
+            0.39008242142002575
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PI",
+          "projectedShare": 0.24784596383163315,
+          "actualShare": 0.2313980840725151,
+          "shareErrorPp": 1.6447879759118045,
+          "marginErrorPp": 3.289575951823609,
+          "interval80": [
+            0.20823653862382643,
+            0.2891841316168018
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RJ",
+          "projectedShare": 0.554999272751272,
+          "actualShare": 0.5652543155618173,
+          "shareErrorPp": -1.0255042810545234,
+          "marginErrorPp": -2.051008562109047,
+          "interval80": [
+            0.49794979340367196,
+            0.6117115117975326
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RN",
+          "projectedShare": 0.3563308186610228,
+          "actualShare": 0.3490299612494762,
+          "shareErrorPp": 0.7300857411546569,
+          "marginErrorPp": 1.4601714823093137,
+          "interval80": [
+            0.30813463550744735,
+            0.40600914571399715
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RS",
+          "projectedShare": 0.5378120849999762,
+          "actualShare": 0.563496560622463,
+          "shareErrorPp": -2.568447562248677,
+          "marginErrorPp": -5.136895124497354,
+          "interval80": [
+            0.48585166058937185,
+            0.5900357409065152
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RO",
+          "projectedShare": 0.6728160581600365,
+          "actualShare": 0.7066261967996073,
+          "shareErrorPp": -3.381013863957072,
+          "marginErrorPp": -6.762027727914144,
+          "interval80": [
+            0.6226553557663256,
+            0.7211782910333701
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RR",
+          "projectedShare": 0.727100790208956,
+          "actualShare": 0.760808990685775,
+          "shareErrorPp": -3.3708200476818995,
+          "marginErrorPp": -6.741640095363799,
+          "interval80": [
+            0.6778596416111935,
+            0.7735125635967646
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "SC",
+          "projectedShare": 0.6610457142025771,
+          "actualShare": 0.6927143424733632,
+          "shareErrorPp": -3.166862827078609,
+          "marginErrorPp": -6.333725654157218,
+          "interval80": [
+            0.6134662488639656,
+            0.7080577010533646
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "SP",
+          "projectedShare": 0.5365972848775914,
+          "actualShare": 0.5523907339425622,
+          "shareErrorPp": -1.5793449064970821,
+          "marginErrorPp": -3.1586898129941643,
+          "interval80": [
+            0.48268338814513967,
+            0.5910328324790962
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "SE",
+          "projectedShare": 0.343128127512154,
+          "actualShare": 0.3279391481709639,
+          "shareErrorPp": 1.5188979341190068,
+          "marginErrorPp": 3.0377958682380135,
+          "interval80": [
+            0.29411434767642325,
+            0.39323566365305246
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "TO",
+          "projectedShare": 0.4777941885727003,
+          "actualShare": 0.4864466284666297,
+          "shareErrorPp": -0.8652439893929442,
+          "marginErrorPp": -1.7304879787858884,
+          "interval80": [
+            0.4249546023671861,
+            0.5304570740417051
+          ],
+          "insideInterval80": true
+        }
+      ],
+      "stateMeanAbsoluteErrorPp": 1.7631972219294878,
+      "stateMeanAbsoluteMarginErrorPp": 3.5263944438589756,
+      "intervalCoverage": {
+        "inside": 27,
+        "tested": 27,
+        "totalStates": 27,
+        "fraction": 1
+      },
+      "missingStates": [],
+      "complete27States": true,
+      "note": "Erro em pontos percentuais; MAE de participação e de margem são distintos. Cobertura inclui somente estados com intervalo. Este cálculo não certifica dados, premissas nem independência temporal."
+    },
+    "withCorrection": {
+      "label": "Mesma projeção: correção zero por falta de evidência de persistência",
+      "year": 2022,
+      "candidateNumbers": [
+        "22",
+        "13"
+      ],
+      "national": {
+        "id": "BR",
+        "projectedShare": 0.4801783093277725,
+        "actualShare": 0.49097594882827844,
+        "shareErrorPp": -1.079763950050594,
+        "marginErrorPp": -2.159527900101188,
+        "interval80": [
+          0.4405116586072422,
+          0.5199899152159762
+        ],
+        "insideInterval80": true
+      },
+      "states": [
+        {
+          "id": "AC",
+          "projectedShare": 0.6639517356079497,
+          "actualShare": 0.7030020815213673,
+          "shareErrorPp": -3.9050345913417606,
+          "marginErrorPp": -7.810069182683521,
+          "interval80": [
+            0.6115937933365918,
+            0.7145803002773391
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "AL",
+          "projectedShare": 0.41047331610940047,
+          "actualShare": 0.4131941816276977,
+          "shareErrorPp": -0.2720865518297255,
+          "marginErrorPp": -0.544173103659451,
+          "interval80": [
+            0.35990789865616746,
+            0.46161394363887004
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "AP",
+          "projectedShare": 0.49545831292473774,
+          "actualShare": 0.5136106949406477,
+          "shareErrorPp": -1.8152382015909962,
+          "marginErrorPp": -3.6304764031819925,
+          "interval80": [
+            0.4334446454030116,
+            0.5565556544687915
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "AM",
+          "projectedShare": 0.4770966070010193,
+          "actualShare": 0.48900460255896583,
+          "shareErrorPp": -1.1907995557946527,
+          "marginErrorPp": -2.3815991115893054,
+          "interval80": [
+            0.42021341421155345,
+            0.5333542489786898
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "BA",
+          "projectedShare": 0.29369322208008314,
+          "actualShare": 0.27877844686175723,
+          "shareErrorPp": 1.4914775218325904,
+          "marginErrorPp": 2.982955043665181,
+          "interval80": [
+            0.2502942064582298,
+            0.33852347272790806
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "CE",
+          "projectedShare": 0.3123590495308313,
+          "actualShare": 0.3003246013500006,
+          "shareErrorPp": 1.2034448180830715,
+          "marginErrorPp": 2.406889636166143,
+          "interval80": [
+            0.26629165613124656,
+            0.3598246540676456
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "DF",
+          "projectedShare": 0.5752843226836768,
+          "actualShare": 0.5881145990175226,
+          "shareErrorPp": -1.2830276333845814,
+          "marginErrorPp": -2.5660552667691627,
+          "interval80": [
+            0.5015359191134096,
+            0.6466020266859275
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "ES",
+          "projectedShare": 0.562720873165334,
+          "actualShare": 0.5804418645921612,
+          "shareErrorPp": -1.7720991426827148,
+          "marginErrorPp": -3.5441982853654297,
+          "interval80": [
+            0.5094540270078485,
+            0.6160367113849401
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "GO",
+          "projectedShare": 0.5657103083677625,
+          "actualShare": 0.5871350487101475,
+          "shareErrorPp": -2.1424740342385062,
+          "marginErrorPp": -4.2849480684770125,
+          "interval80": [
+            0.5116018816182055,
+            0.6185667355881618
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MA",
+          "projectedShare": 0.30567948767191455,
+          "actualShare": 0.2886427022580131,
+          "shareErrorPp": 1.7036785413901467,
+          "marginErrorPp": 3.4073570827802935,
+          "interval80": [
+            0.26147101008096535,
+            0.3506546145397593
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MT",
+          "projectedShare": 0.6266996224167325,
+          "actualShare": 0.650826203145627,
+          "shareErrorPp": -2.412658072889451,
+          "marginErrorPp": -4.825316145778902,
+          "interval80": [
+            0.5763520376164482,
+            0.6754276383951396
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MS",
+          "projectedShare": 0.5710828285411997,
+          "actualShare": 0.5949425498580214,
+          "shareErrorPp": -2.385972131682168,
+          "marginErrorPp": -4.771944263364336,
+          "interval80": [
+            0.5157514805026695,
+            0.6252063966185935
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "MG",
+          "projectedShare": 0.485704505735046,
+          "actualShare": 0.4979869886079367,
+          "shareErrorPp": -1.2282482872890743,
+          "marginErrorPp": -2.4564965745781486,
+          "interval80": [
+            0.4332109290655091,
+            0.5385946236528621
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PA",
+          "projectedShare": 0.4505896657236922,
+          "actualShare": 0.45252116581812835,
+          "shareErrorPp": -0.1931500094436156,
+          "marginErrorPp": -0.3863000188872312,
+          "interval80": [
+            0.3991788459625414,
+            0.502334544856566
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PB",
+          "projectedShare": 0.34362260862196203,
+          "actualShare": 0.3337562982047907,
+          "shareErrorPp": 0.9866310417171342,
+          "marginErrorPp": 1.9732620834342685,
+          "interval80": [
+            0.2967037411929682,
+            0.3910609069853774
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PR",
+          "projectedShare": 0.597228838242787,
+          "actualShare": 0.6239687138273506,
+          "shareErrorPp": -2.673987558456359,
+          "marginErrorPp": -5.347975116912718,
+          "interval80": [
+            0.5452883414082224,
+            0.6488228184103824
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PE",
+          "projectedShare": 0.3416350137255238,
+          "actualShare": 0.33068193203199037,
+          "shareErrorPp": 1.0953081693533429,
+          "marginErrorPp": 2.1906163387066857,
+          "interval80": [
+            0.29459914585031083,
+            0.39008242142002575
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "PI",
+          "projectedShare": 0.24784596383163315,
+          "actualShare": 0.2313980840725151,
+          "shareErrorPp": 1.6447879759118045,
+          "marginErrorPp": 3.289575951823609,
+          "interval80": [
+            0.20823653862382643,
+            0.2891841316168018
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RJ",
+          "projectedShare": 0.554999272751272,
+          "actualShare": 0.5652543155618173,
+          "shareErrorPp": -1.0255042810545234,
+          "marginErrorPp": -2.051008562109047,
+          "interval80": [
+            0.49794979340367196,
+            0.6117115117975326
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RN",
+          "projectedShare": 0.3563308186610228,
+          "actualShare": 0.3490299612494762,
+          "shareErrorPp": 0.7300857411546569,
+          "marginErrorPp": 1.4601714823093137,
+          "interval80": [
+            0.30813463550744735,
+            0.40600914571399715
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RS",
+          "projectedShare": 0.5378120849999762,
+          "actualShare": 0.563496560622463,
+          "shareErrorPp": -2.568447562248677,
+          "marginErrorPp": -5.136895124497354,
+          "interval80": [
+            0.48585166058937185,
+            0.5900357409065152
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RO",
+          "projectedShare": 0.6728160581600365,
+          "actualShare": 0.7066261967996073,
+          "shareErrorPp": -3.381013863957072,
+          "marginErrorPp": -6.762027727914144,
+          "interval80": [
+            0.6226553557663256,
+            0.7211782910333701
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "RR",
+          "projectedShare": 0.727100790208956,
+          "actualShare": 0.760808990685775,
+          "shareErrorPp": -3.3708200476818995,
+          "marginErrorPp": -6.741640095363799,
+          "interval80": [
+            0.6778596416111935,
+            0.7735125635967646
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "SC",
+          "projectedShare": 0.6610457142025771,
+          "actualShare": 0.6927143424733632,
+          "shareErrorPp": -3.166862827078609,
+          "marginErrorPp": -6.333725654157218,
+          "interval80": [
+            0.6134662488639656,
+            0.7080577010533646
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "SP",
+          "projectedShare": 0.5365972848775914,
+          "actualShare": 0.5523907339425622,
+          "shareErrorPp": -1.5793449064970821,
+          "marginErrorPp": -3.1586898129941643,
+          "interval80": [
+            0.48268338814513967,
+            0.5910328324790962
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "SE",
+          "projectedShare": 0.343128127512154,
+          "actualShare": 0.3279391481709639,
+          "shareErrorPp": 1.5188979341190068,
+          "marginErrorPp": 3.0377958682380135,
+          "interval80": [
+            0.29411434767642325,
+            0.39323566365305246
+          ],
+          "insideInterval80": true
+        },
+        {
+          "id": "TO",
+          "projectedShare": 0.4777941885727003,
+          "actualShare": 0.4864466284666297,
+          "shareErrorPp": -0.8652439893929442,
+          "marginErrorPp": -1.7304879787858884,
+          "interval80": [
+            0.4249546023671861,
+            0.5304570740417051
+          ],
+          "insideInterval80": true
+        }
+      ],
+      "stateMeanAbsoluteErrorPp": 1.7631972219294878,
+      "stateMeanAbsoluteMarginErrorPp": 3.5263944438589756,
+      "intervalCoverage": {
+        "inside": 27,
+        "tested": 27,
+        "totalStates": 27,
+        "fraction": 1
+      },
+      "missingStates": [],
+      "complete27States": true,
+      "note": "Erro em pontos percentuais; MAE de participação e de margem são distintos. Cobertura inclui somente estados com intervalo. Este cálculo não certifica dados, premissas nem independência temporal."
+    },
+    "nationalCorrectionImproved": false,
+    "nationalAbsoluteMarginErrorChangePp": 0,
+    "stateMeanAbsoluteErrorChangePp": 0,
+    "note": "Valores negativos de mudança significam redução do erro. Uma melhora isolada em 2022 não valida a correção nem autoriza ajustar parâmetros usando o resultado."
+  },
+  "ecological": {
+    "label": "Transferência ecológica condicional antes da calibração nacional",
+    "year": 2022,
+    "candidateNumbers": [
+      "22",
+      "13"
+    ],
+    "national": {
+      "id": "BR",
+      "projectedShare": 0.4696632401083458,
+      "actualShare": 0.49097594882827844,
+      "shareErrorPp": -2.1312708719932627,
+      "marginErrorPp": -4.262541743986525,
+      "interval80": null,
+      "insideInterval80": null
+    },
+    "states": [
+      {
+        "id": "AC",
+        "projectedShare": 0.6558380139392194,
+        "actualShare": 0.7030020815213673,
+        "shareErrorPp": -4.716406758214797,
+        "marginErrorPp": -9.432813516429594,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "AL",
+        "projectedShare": 0.3993847773840547,
+        "actualShare": 0.4131941816276977,
+        "shareErrorPp": -1.380940424364302,
+        "marginErrorPp": -2.761880848728604,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "AP",
+        "projectedShare": 0.4843787438531894,
+        "actualShare": 0.5136106949406477,
+        "shareErrorPp": -2.92319510874583,
+        "marginErrorPp": -5.84639021749166,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "AM",
+        "projectedShare": 0.4663119858031151,
+        "actualShare": 0.48900460255896583,
+        "shareErrorPp": -2.2692616755850716,
+        "marginErrorPp": -4.538523351170143,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "BA",
+        "projectedShare": 0.28263921799985603,
+        "actualShare": 0.27877844686175723,
+        "shareErrorPp": 0.3860771138098795,
+        "marginErrorPp": 0.772154227619759,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "CE",
+        "projectedShare": 0.3011857710339297,
+        "actualShare": 0.3003246013500006,
+        "shareErrorPp": 0.0861169683929075,
+        "marginErrorPp": 0.172233936785815,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "DF",
+        "projectedShare": 0.5651203956883927,
+        "actualShare": 0.5881145990175226,
+        "shareErrorPp": -2.2994203329129936,
+        "marginErrorPp": -4.598840665825987,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "ES",
+        "projectedShare": 0.5525420924074174,
+        "actualShare": 0.5804418645921612,
+        "shareErrorPp": -2.789977218474382,
+        "marginErrorPp": -5.579954436948764,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "GO",
+        "projectedShare": 0.5558448758199396,
+        "actualShare": 0.5871350487101475,
+        "shareErrorPp": -3.129017289020797,
+        "marginErrorPp": -6.258034578041594,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "MA",
+        "projectedShare": 0.29483066480876535,
+        "actualShare": 0.2886427022580131,
+        "shareErrorPp": 0.6187962550752268,
+        "marginErrorPp": 1.2375925101504537,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "MT",
+        "projectedShare": 0.6180751956065514,
+        "actualShare": 0.650826203145627,
+        "shareErrorPp": -3.275100753907556,
+        "marginErrorPp": -6.550201507815112,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "MS",
+        "projectedShare": 0.5611156812384573,
+        "actualShare": 0.5949425498580214,
+        "shareErrorPp": -3.3826868619564077,
+        "marginErrorPp": -6.765373723912815,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "MG",
+        "projectedShare": 0.4746406007334676,
+        "actualShare": 0.4979869886079367,
+        "shareErrorPp": -2.334638787446913,
+        "marginErrorPp": -4.669277574893826,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "PA",
+        "projectedShare": 0.43952925579882557,
+        "actualShare": 0.45252116581812835,
+        "shareErrorPp": -1.2991910019302777,
+        "marginErrorPp": -2.5983820038605554,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "PB",
+        "projectedShare": 0.33257913653499493,
+        "actualShare": 0.3337562982047907,
+        "shareErrorPp": -0.11771616697957565,
+        "marginErrorPp": -0.2354323339591513,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "PR",
+        "projectedShare": 0.5874940153133555,
+        "actualShare": 0.6239687138273506,
+        "shareErrorPp": -3.6474698513995096,
+        "marginErrorPp": -7.294939702799019,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "PE",
+        "projectedShare": 0.3303382496829346,
+        "actualShare": 0.33068193203199037,
+        "shareErrorPp": -0.03436823490557406,
+        "marginErrorPp": -0.06873646981114812,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "PI",
+        "projectedShare": 0.237483259785707,
+        "actualShare": 0.2313980840725151,
+        "shareErrorPp": 0.6085175713191893,
+        "marginErrorPp": 1.2170351426383785,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "RJ",
+        "projectedShare": 0.5447194919278681,
+        "actualShare": 0.5652543155618173,
+        "shareErrorPp": -2.0534823633949206,
+        "marginErrorPp": -4.106964726789841,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "RN",
+        "projectedShare": 0.34486745111727124,
+        "actualShare": 0.3490299612494762,
+        "shareErrorPp": -0.41625101322049773,
+        "marginErrorPp": -0.8325020264409955,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "RS",
+        "projectedShare": 0.5270886608193703,
+        "actualShare": 0.563496560622463,
+        "shareErrorPp": -3.640789980309267,
+        "marginErrorPp": -7.281579960618534,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "RO",
+        "projectedShare": 0.6648863371674162,
+        "actualShare": 0.7066261967996073,
+        "shareErrorPp": -4.173985963219106,
+        "marginErrorPp": -8.347971926438213,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "RR",
+        "projectedShare": 0.7206277226987166,
+        "actualShare": 0.760808990685775,
+        "shareErrorPp": -4.018126798705845,
+        "marginErrorPp": -8.03625359741169,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "SC",
+        "projectedShare": 0.6527783038095494,
+        "actualShare": 0.6927143424733632,
+        "shareErrorPp": -3.993603866381379,
+        "marginErrorPp": -7.987207732762758,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "SP",
+        "projectedShare": 0.5260861201660019,
+        "actualShare": 0.5523907339425622,
+        "shareErrorPp": -2.630461377656035,
+        "marginErrorPp": -5.26092275531207,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "SE",
+        "projectedShare": 0.3315146597554086,
+        "actualShare": 0.3279391481709639,
+        "shareErrorPp": 0.35755115844446905,
+        "marginErrorPp": 0.7151023168889381,
+        "interval80": null,
+        "insideInterval80": null
+      },
+      {
+        "id": "TO",
+        "projectedShare": 0.4667844847928249,
+        "actualShare": 0.4864466284666297,
+        "shareErrorPp": -1.966214367380481,
+        "marginErrorPp": -3.932428734760962,
+        "interval80": null,
+        "insideInterval80": null
+      }
+    ],
+    "stateMeanAbsoluteErrorPp": 2.1684950097464144,
+    "stateMeanAbsoluteMarginErrorPp": 4.336990019492829,
+    "intervalCoverage": {
+      "inside": 0,
+      "tested": 0,
+      "totalStates": 27,
+      "fraction": null
+    },
+    "missingStates": [],
+    "complete27States": true,
+    "note": "Erro em pontos percentuais; MAE de participação e de margem são distintos. Cobertura inclui somente estados com intervalo. Este cálculo não certifica dados, premissas nem independência temporal."
+  },
+  "audit": {
+    "drawsChecked": 115020000,
+    "violations": 0,
+    "minCount": 0,
+    "electorate": 156454011,
+    "rounding": "largest-remainder",
+    "synthetic": false,
+    "conditional": true
+  },
+  "correction": {
+    "coefficient": 0,
+    "reason": "Não há evidência verificada de persistência que justifique afastar a projeção da média parcial; as variantes sem/com correção coincidem deliberadamente."
+  },
+  "limitations": [
+    "Retrospecto condicional calculado, não validação prospectiva. Documento de pesquisa2022 arquivado após divulgação; vazamento documental não excluído.",
+    "Sem ajuste dos hiperparâmetros aos erros estaduais de2022. Matriz incompleta foi complementada com as hipóteses versionadas antes de executar a pontuação.",
+    "Comportamento usa2018 e escala nacional só2014/2018; o resultado2022 entra apenas na pontuação depois da simulação.",
+    "Cobertura observada em27estados correlacionados não é uma demonstração de calibração geral. Não se deve esperar exatamente80% numa amostra pequena.",
+    "Versão ecológica mostra pontos anteriores à calibração; não se calculou cobertura para essa variante."
+  ]
+}

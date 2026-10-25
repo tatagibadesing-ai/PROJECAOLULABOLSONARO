@@ -1,0 +1,296 @@
+{
+  "status": "partial",
+  "asOf": "2026-10-25T00:11:41.519Z",
+  "scope": "Levantamento parcial de fontes primárias; não é catálogo completo de pesquisas registradas no TSE.",
+  "registrationStatus": "PesqEle HTTP403; números de registro conferidos como declarações publicadas pelos institutos, não consultados diretamente no cadastro TSE.",
+  "average": {
+    "flavio": 50.79688292140323,
+    "lula": 49.20311707859677,
+    "count": 5,
+    "label": "Média parcial de publicações localizadas",
+    "method": "sqrt(amostra) × 2^(−idade/5); apenas votos válidos publicados; sem ajuste de instituto; não é a série completa nem uma projeção."
+  },
+  "polls": [
+    {
+      "id": "datafolha-2026-10-22",
+      "year": 2026,
+      "round": 2,
+      "institute": "Datafolha",
+      "sponsor": "Folha de S.Paulo e TV Globo",
+      "fieldStart": "2026-10-20",
+      "fieldEnd": "2026-10-22",
+      "sample": 2520,
+      "method": "Presencial em pontos de fluxo populacional",
+      "registration": "BR-09709/2026",
+      "scope": "BR",
+      "denominator": "valid",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 50
+        },
+        {
+          "name": "Lula",
+          "percent": 50
+        }
+      ],
+      "blankNull": null,
+      "undecided": null,
+      "sourceUrl": "https://media.folha.uol.com.br/datafolha/2026/10/23/xruy9kxbaieozsbhp0lxbvdrv6cvlf5iuxgfkw04tre.pdf",
+      "sourceFile": "dados/pesquisas/datafolha-2026-10-22.pdf",
+      "verification": "primary-publication",
+      "tseRegistrationVerified": false,
+      "notes": "Percentuais válidos publicados arredondados; não recalcular 47/(47+46) pois muda o valor publicado. Totais47/46/BN5/indecisos2. Base válidos2351.",
+      "sha256": "c548241d08d526ce1ceecc87e64cd1ba989634130ba165b9660fbab4219321d4",
+      "bytes": 1431549,
+      "includedInPartialAverage": true
+    },
+    {
+      "id": "datafolha-2026-10-14",
+      "year": 2026,
+      "round": 2,
+      "institute": "Datafolha",
+      "sponsor": "Folha de S.Paulo",
+      "fieldStart": "2026-10-13",
+      "fieldEnd": "2026-10-14",
+      "sample": 2520,
+      "method": "Presencial em pontos de fluxo populacional",
+      "registration": "BR-00466/2026",
+      "scope": "BR",
+      "denominator": "valid",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 51
+        },
+        {
+          "name": "Lula",
+          "percent": 49
+        }
+      ],
+      "blankNull": null,
+      "undecided": null,
+      "sourceUrl": "https://media.folha.uol.com.br/datafolha/2026/10/16/2sq1uhzy7x0w7caugz-gotqrxffgtdsqnx7qkfqfhs0.pdf",
+      "sourceFile": "dados/pesquisas/datafolha-2026-10-14.pdf",
+      "verification": "primary-publication",
+      "tseRegistrationVerified": false,
+      "notes": "Capa15/10; seção metodologia e artigo indicam campo13–14/10, divergindo pedido13–15. Totais47/45.",
+      "sha256": "b86d9106bbdb9deb074f03e57522365ff9d5a7222f16ff0c8f7b36480cdd9b81",
+      "bytes": 1459345,
+      "includedInPartialAverage": true
+    },
+    {
+      "id": "atlas-2026-10-18",
+      "year": 2026,
+      "round": 2,
+      "institute": "AtlasIntel",
+      "sponsor": "Bloomberg",
+      "fieldStart": "2026-10-13",
+      "fieldEnd": "2026-10-18",
+      "sample": 4998,
+      "method": "Atlas RDR — recrutamento digital aleatório",
+      "registration": "BR-02418/2026",
+      "scope": "BR",
+      "denominator": "valid",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 51.1
+        },
+        {
+          "name": "Lula",
+          "percent": 48.9
+        }
+      ],
+      "blankNull": null,
+      "undecided": null,
+      "sourceUrl": "https://cdn1.atlasintel.org/pesquisa_atlas_bloomberg__nacional_261019_1_4df1944681acf96f.pdf",
+      "sourceFile": "dados/pesquisas/atlas-2026-10-18.pdf",
+      "verification": "primary-publication",
+      "tseRegistrationVerified": false,
+      "notes": "Valores válidos verificados visualmente na página8; gráficos rasterizados não são extraídos por pdftotext.",
+      "sha256": "08557d05fbd0ccb40d56937d11bcde76f670fedf3c671827e1494b2213127123",
+      "bytes": 2051532,
+      "includedInPartialAverage": true
+    },
+    {
+      "id": "quaest-2026-10-20",
+      "year": 2026,
+      "round": 2,
+      "institute": "Quaest",
+      "sponsor": "Globo Comunicação e Participações S/A / TV/Rede/Globo.com/Canais Globo/Globoplay/Eletromidia; Editora Globo S/A",
+      "fieldStart": "2026-10-17",
+      "fieldEnd": "2026-10-20",
+      "sample": 2154,
+      "method": "Entrevistas pessoais domiciliares",
+      "registration": "BR-08535/2026",
+      "scope": "BR",
+      "denominator": "total",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 45
+        },
+        {
+          "name": "Lula",
+          "percent": 44
+        }
+      ],
+      "blankNull": 9,
+      "undecided": 2,
+      "sourceUrl": "https://quaest.com.br/wp-content/uploads/2026/10/QUAEST9PRESIDENCIAL2110.pdf",
+      "sourceFile": "dados/pesquisas/quaest-2026-10-20.pdf.gz",
+      "verification": "primary-publication",
+      "tseRegistrationVerified": false,
+      "notes": "Página17: BN inclui explicitamente não vai votar. Não separar brancos/nulos/abstenção. Conversão possível apenas como derivada45/(45+44), não como válidos publicados.",
+      "sha256": "70aae678e2913729bfc0e9afb427db09a86cb5d43b693c959458105041202c65",
+      "bytes": 68517975,
+      "compression": "gzip",
+      "originalSha256": "70fe5c5bfcb8b2ccfb8e558b143a00d459328cfbde59ce95f4270dfaf50a40dd",
+      "originalBytes": 69889978,
+      "includedInPartialAverage": false
+    },
+    {
+      "id": "datafolha-2026-10-07",
+      "year": 2026,
+      "round": 2,
+      "institute": "Datafolha",
+      "sponsor": "Folha de S.Paulo e TV Globo",
+      "fieldStart": "2026-10-06",
+      "fieldEnd": "2026-10-07",
+      "sample": 2520,
+      "method": "Presencial em pontos de fluxo populacional",
+      "registration": "BR-02949/2026",
+      "scope": "BR",
+      "denominator": "valid",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 52
+        },
+        {
+          "name": "Lula",
+          "percent": 48
+        }
+      ],
+      "blankNull": null,
+      "undecided": null,
+      "sourceUrl": "https://media.folha.uol.com.br/datafolha/2026/10/13/zefhrqjmwoq3pioqozlalresgfzvggh4qtuswjinmdl8iqnzvr9kbunxnpilibse.pdf",
+      "sourceFile": "dados/pesquisas/datafolha-2026-10-07.pdf",
+      "verification": "primary-publication",
+      "tseRegistrationVerified": false,
+      "notes": "Capa08/10 mas metodologia campo06–07/10; pedido06–08. Totais49/45.",
+      "sha256": "9b95078c8f04e961b48719c166a303b354c4366eb59b633642ef0fc0de7aafcb",
+      "bytes": 1398825,
+      "includedInPartialAverage": true
+    },
+    {
+      "id": "datafolha-2026-10-24",
+      "year": 2026,
+      "round": 2,
+      "institute": "Datafolha",
+      "sponsor": "Folha de S.Paulo e TV Globo",
+      "fieldStart": "2026-10-23",
+      "fieldEnd": "2026-10-24",
+      "sample": 4050,
+      "municipalities": 124,
+      "method": null,
+      "registration": "BR-09540/2026",
+      "scope": "BR",
+      "denominator": "valid",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 51,
+          "unroundedPercent": 50.89
+        },
+        {
+          "name": "Lula",
+          "percent": 49,
+          "unroundedPercent": 49.11
+        }
+      ],
+      "totals": {
+        "flavio": 48,
+        "lula": 47,
+        "blankNull": 3,
+        "undecided": 2
+      },
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml",
+      "sourceFile": "dados/pesquisas/datafolha-2026-10-24-publicacao.html",
+      "textFile": "dados/pesquisas/datafolha-2026-10-24-publicacao.txt",
+      "verification": "primary-publication-by-poll-sponsor",
+      "tseRegistrationVerified": false,
+      "sha256": "734c79192377ac4a8949e7d2b4a77210f990524eacb896e5f8422e57974f5461",
+      "bytes": 361010,
+      "publicationMetadata": {
+        "datePublished": "2026-10-24T18:30:00Z",
+        "dateModified": "2026-10-24T20:15:00Z"
+      },
+      "notes": "Publicação original Folha, contratante da pesquisa, informa resultados e metadados; método de entrevista não localizado neste artigo, PDF técnico ainda não localizado. Valores não arredondados publicados expressamente. Grupo de alta propensão NÃO é pesquisa independente. Registro citado pelo instituto/contratante; PesqEle403 impede consulta direta.",
+      "crosstabs": {
+        "denominator": "valid",
+        "region": {
+          "Sudeste": {
+            "flavio": 55,
+            "lula": 45
+          },
+          "Sul": {
+            "flavio": 65,
+            "lula": 35
+          },
+          "Nordeste": {
+            "flavio": 33,
+            "lula": 67
+          }
+        },
+        "income": {
+          "até2salarios": {
+            "flavio": 40,
+            "lula": 60
+          }
+        },
+        "religion": {
+          "evangelica": {
+            "flavio": 70,
+            "lula": 30
+          },
+          "catolica": {
+            "flavio": 44,
+            "lula": 56
+          }
+        },
+        "age": {
+          "16a24": {
+            "flavio": 46,
+            "lula": 54
+          }
+        },
+        "propensity": {
+          "high": {
+            "flavio": 52,
+            "lula": 48,
+            "electorateShare": 76
+          },
+          "mediumLow": {
+            "flavio": 48,
+            "lula": 52,
+            "electorateShare": 24
+          },
+          "sourceUrl": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml",
+          "construction": "Proximidade entre domicílio e local de votação e comparecimento no primeiro turno; código e coeficientes do indicador não publicados no texto."
+        }
+      },
+      "includedInPartialAverage": true
+    }
+  ],
+  "missing": [
+    "Atlas03–08/10 BR-03663/2026",
+    "Quaest10–13/10 BR-08729/2026",
+    "pesquisas estaduais completas",
+    "rodadas24/10 se publicadas",
+    "todas pesquisas2022 além Datafolha",
+    "cruzamentos completos por candidato individual",
+    "comparabilidade histórica e covariância regional"
+  ]
+}

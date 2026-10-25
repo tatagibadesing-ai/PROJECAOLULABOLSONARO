@@ -1,0 +1,38 @@
+{
+  "name": "observatorio-presidencial",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "node scripts/build.mjs",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test lib/*.test.ts",
+    "test:e2e": "playwright test",
+    "audit:data": "node scripts/audit-data.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "^12.0.0",
+    "geist": "^1.8.2",
+    "gsap": "^3.14.0",
+    "lucide-react": "^0.468.0",
+    "next": "^16.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "undici": "^7.30.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.0"
+  }
+}

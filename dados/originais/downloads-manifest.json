@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-10-24T23:48:56.160276+00:00",
+  "sources": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/votacao_candidato_munzona_2026_BR.csv.gz",
+      "sha256": "7277b25f7e75ee472c20256ebec5e26a0315155579b043f4c0ca48db226c19f1",
+      "bytes": 1685226,
+      "member": "votacao_candidato_munzona_2026_BR.csv",
+      "uncompressedSha256": "0995f02e470a9572e58c2fd642803b750ea07a2880363f325a5b640196e68509",
+      "extraction": "BR member only, ZIP CRC32 checked on first download"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/detalhe_votacao_munzona_2026.zip",
+      "sha256": "05ff45923b1cec926ce7005b6d1a3829a70c90b70e886f18bac71533bad34bc6",
+      "bytes": 2514522
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/votacao_candidato_munzona_2022_BR.csv.gz",
+      "sha256": "4a2add2d0fe325877f93a64add299dbbfc2d9e8af7ceafb5d0f9a6b92471e0ac",
+      "bytes": 1944487,
+      "member": "votacao_candidato_munzona_2022_BR.csv",
+      "uncompressedSha256": "fdfdc5abcb750e2d23c745a56786075d7de5b1c561279fe0026b6261ec9c8567",
+      "extraction": "BR member only, ZIP CRC32 checked on first download"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2022.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/detalhe_votacao_munzona_2022.zip",
+      "sha256": "dbf41c5e95c2efedc72848bd0ec70a47f419b539c82e893388314749617ea2f4",
+      "bytes": 4429327
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/votacao_candidato_munzona_2018_BR.csv.gz",
+      "sha256": "357f1af4df89ac24fc1208ab65e8b9254b3524e379850fdca1e419ef0a9fd6b5",
+      "bytes": 2299038,
+      "member": "votacao_candidato_munzona_2018_BR.csv",
+      "uncompressedSha256": "c495390fbb87d6c59374570fd9b81adebf19e983a5d3329bb1e82cdcd91c28ac",
+      "extraction": "BR member only, ZIP CRC32 checked on first download"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2018.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/detalhe_votacao_munzona_2018.zip",
+      "sha256": "df68c258a2261dff37b379f65ea5f2e8de7b3d824bb2340d8f4830274a3fabb5",
+      "bytes": 4269741
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/votacao_candidato_munzona_2014_BR.csv.gz",
+      "sha256": "d43cb87a2efbe88b0af1370814f5c0d5bbe1faa010667769972aa4ddce5faff5",
+      "bytes": 664728,
+      "member": "votacao_candidato_munzona_2014_BR.csv",
+      "uncompressedSha256": "a3e6bd5796ce353f24e30028ecfc5b767f671075eeebfe498d8ff60087a739de",
+      "extraction": "BR member only, ZIP CRC32 checked on first download"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2014.zip",
+      "retrievedAt": "2026-10-24T23:48:56.160276+00:00",
+      "path": "dados/originais/detalhe_votacao_munzona_2014.zip",
+      "sha256": "f9195f8988edabd5db03fdef31ad33b21ad0f02c75c8a8fa30c468ed5642460a",
+      "bytes": 3937094
+    }
+  ]
+}

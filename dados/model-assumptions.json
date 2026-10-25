@@ -1,0 +1,42 @@
+{
+  "version": "conditional-v1",
+  "status": "explicit-assumptions-not-validated",
+  "label": "Projeção condicional às premissas; cobertura e chances de vitória não validadas",
+  "method": "Base municipal oficial, transferência observada onde publicada, complementação explícita, variação de comportamento do pleito anterior, raking e calibração logística à média parcial.",
+  "defaults": {
+    "ownStay": 0.96,
+    "ownCross": 0.01,
+    "otherNonvalid": 0.2,
+    "otherValidShareA": 0.5,
+    "invalidReturn": 0.3,
+    "abstentionReturn": 0.1,
+    "notInstalledReturn": 0.1,
+    "rowFloor": 0.0001,
+    "behaviorShrinkElectors": 10000,
+    "biasCorrection": 0
+  },
+  "uncertainty": {
+    "historicalScale": "RMSE dos erros nacionais logísticos de eleições anteriores ao ano previsto",
+    "nationalStructural": 0.12,
+    "regional": 0.12,
+    "city": 0.16,
+    "turnout": 0.08,
+    "invalid": 0.1,
+    "units": "desvios na escala logística",
+    "estimated": ["erros nacionais históricos descritos em historical-error.json"],
+    "assumed": ["componente estrutural nacional", "componentes regional, municipal, comparecimento e inválidos", "soma independente das variâncias histórica e estrutural"],
+    "note": "A dispersão histórica de três eleições de um instituto não identifica a incerteza total. O componente estrutural é uma escolha separada de sensibilidade; não é estimativa histórica. O desvio nacional usado é sqrt(RMSE_histórico²+estrutural_assumido²). Não há garantia de cobertura de80%."
+  },
+  "rules": [
+    "Indecisos são redistribuídos proporcionalmente entre os dois destinos válidos publicados; essa resolução é hipótese, não observação.",
+    "O destino agregado branco/nulo/não vai votar é dividido conforme a composição nacional não válida do segundo turno anterior; a divisão é hipótese e não identifica o comportamento individual.",
+    "Linhas individuais publicadas prevalecem sobre agregado outros; os dois nunca são somados como origens independentes.",
+    "Retenção, retorno dos abstencionistas, brancos/nulos e seções não instaladas usam defaults quando o cruzamento não existe.",
+    "A variação municipal de abstenção/brancos/nulos é estimada no pleito anterior e regularizada para a variação da UF com peso E/(E+10000); em2026 usa2022 e em2022 usa2018.",
+    "As linhas são ajustadas por raking para conservar cada origem e atingir os destinos comportamentais municipais; depois são ajustadas à calibração nacional logística. Linhas finais diferem dos cruzamentos brutos e isso deve ser exposto.",
+    "O eleitorado das seções não instaladas permanece uma origem própria, nunca abstenção observada; seus destinos futuros são premissa explícita.",
+    "Sem evidência de persistência do erro do primeiro turno, a correção de instituto é zero. O controle de correção cria apenas sensibilidade.",
+    "Retrospecto2022 usa apenas erros nacionais2014/2018 para a escala, sem o próprio resultado2022. Os documentos de pesquisa2022 arquivados depois do resultado impedem chamá-lo de validação prospectiva sem vazamento.",
+    "Hipóteses definidas nesta implementação retrospectiva, sem ajuste deliberado aos erros estaduais de2022; não foram congeladas antes da eleição histórica."
+  ]
+}

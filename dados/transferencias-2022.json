@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "year": 2022,
+  "roundFrom": 1,
+  "roundTo": 2,
+  "observedAt": "2026-10-25T00:10:08.830375+00:00",
+  "source": "dados/pesquisas/datafolha-2022-10-29.pdf",
+  "sourceUrl": "https://media.folha.com.br/datafolha/2022/10/31/intencao-de-voto-presidente-2-turno.pdf",
+  "sha256": "3c893d6963b3979a25409be63b61267fddfebd51846bf4f0bb7f1545276a055c",
+  "page": 4,
+  "institute": "Datafolha",
+  "registration": "BR-08297/2022",
+  "tseRegistrationVerified": false,
+  "fieldStart": "2022-10-28",
+  "fieldEnd": "2022-10-29",
+  "sample": 8308,
+  "unit": "percent",
+  "candidateOrder": [
+    "Jair Bolsonaro",
+    "Lula"
+  ],
+  "destinations": [
+    "Jair Bolsonaro",
+    "Lula",
+    "branco/nulo",
+    "indecisos",
+    "abstenção"
+  ],
+  "rows": [
+    {
+      "source": "Simone Tebet",
+      "sourceCandidateNumber": "15",
+      "validShares": [
+        41,
+        59
+      ],
+      "validSharesDenominator": "apenas pessoas do grupo que declaram voto em um dos dois finalistas",
+      "blankNullTotal": 21,
+      "undecidedTotal": 7,
+      "abstentionTotal": null,
+      "derivedTotalShares": [
+        29.52,
+        42.48,
+        21,
+        7,
+        null
+      ],
+      "derivedFormula": "(100-21-7)*[0.41,0.59]; conversão aproximada de percentuais arredondados publicados, não microdados; abstenção não identificada",
+      "evidenceQuote": "Lula herda 59% dos votos válidos da terceira colocada no primeiro turno, Simone Tebet (MDB), e 41% migram para Bolsonaro. De forma geral, 21% dos eleitores da emedebista dizem que irão votar em branco ou nulo no primeiro turno, e 7% estão indecisos."
+    },
+    {
+      "source": "Ciro Gomes",
+      "sourceCandidateNumber": "12",
+      "validShares": [
+        44,
+        56
+      ],
+      "validSharesDenominator": "apenas pessoas do grupo que declaram voto em um dos dois finalistas",
+      "blankNullTotal": 18,
+      "undecidedTotal": 5,
+      "abstentionTotal": null,
+      "derivedTotalShares": [
+        33.88,
+        43.12,
+        18,
+        5,
+        null
+      ],
+      "derivedFormula": "(100-18-5)*[0.44,0.56]; conversão aproximada de percentuais arredondados publicados, não microdados; abstenção não identificada",
+      "evidenceQuote": "Considerando somente os votos válidos de quem votou em Ciro Gomes (PDT) no primeiro turno e agora pretende votar em um dos dois candidatos que disputam o segundo turno, Lula tem 56% dos válidos, ante 44% do atual presidente. Do total de eleitores que escolheram o pedetista, 18% pretendem votar em branco ou nulo, e 5% estão indecisos."
+    },
+    {
+      "source": "Jair Bolsonaro",
+      "sourceCandidateNumber": "22",
+      "validShares": null,
+      "blankNullTotal": null,
+      "undecidedTotal": null,
+      "abstentionTotal": null,
+      "derivedTotalShares": null,
+      "status": "não publicado nos cruzamentos localizados neste relatório"
+    },
+    {
+      "source": "Lula",
+      "sourceCandidateNumber": "13",
+      "validShares": null,
+      "blankNullTotal": null,
+      "undecidedTotal": null,
+      "abstentionTotal": null,
+      "derivedTotalShares": null,
+      "status": "não publicado nos cruzamentos localizados neste relatório"
+    },
+    {
+      "source": "demais candidatos",
+      "validShares": null,
+      "blankNullTotal": null,
+      "undecidedTotal": null,
+      "abstentionTotal": null,
+      "derivedTotalShares": null,
+      "status": "não publicado nos cruzamentos localizados neste relatório"
+    },
+    {
+      "source": "branco/nulo no primeiro turno",
+      "validShares": null,
+      "blankNullTotal": null,
+      "undecidedTotal": null,
+      "abstentionTotal": null,
+      "derivedTotalShares": null,
+      "status": "não publicado nos cruzamentos localizados neste relatório"
+    },
+    {
+      "source": "abstenção no primeiro turno",
+      "validShares": null,
+      "blankNullTotal": null,
+      "undecidedTotal": null,
+      "abstentionTotal": null,
+      "derivedTotalShares": null,
+      "status": "não publicado nos cruzamentos localizados neste relatório"
+    }
+  ],
+  "limits": [
+    "Não há retenção dos dois finalistas nem destinos de abstencionistas identificados neste PDF.",
+    "Brancos e nulos não estão separados. Indecisão não é abstenção; precisa tratamento explícito como premissa.",
+    "Valores derivados com duas casas são só cálculos algébricos de insumos arredondados, não precisão estatística. Exibir como inteiros ao público.",
+    "Trecho primeiro turno na frase sobre BN de Tebet transcrito literalmente; contexto é intenção de segundo turno.",
+    "Os cruzamentos apresentados nas tabelas20–64 são demográficos, renda, religião, região, preferência partidária e ocupação; não confundir preferência partidária com voto no primeiro turno."
+  ],
+  "temporalProvenance": {
+    "fileCreationDate": "2022-10-30T20:26:11Z",
+    "fileModificationDate": "2022-10-30T20:29:36Z",
+    "urlDate": "2022-10-31",
+    "temporalLeakageStatus": "not_excluded",
+    "prospectiveValidation": false,
+    "note": "Campo anterior à votação, mas arquivo salvo foi gerado durante a apuração de30/10 e publicado/atualizado31/10. Não prova dados congelados antes do resultado."
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-10-24T23:52:18.362Z",
+  "kind": "historical-national-polling-error",
+  "status": "exploratory",
+  "orientation": "candidato adversário do PT em cada segundo turno, definido antes de calcular o erro",
+  "nElections": 3,
+  "nPolls": 3,
+  "degreesFreedom": 2,
+  "years": [
+    2014,
+    2018,
+    2022
+  ],
+  "meanErrorLogit": 0.02121987009646802,
+  "sigmaLogit": 0.02020785872017844,
+  "sigma": 0.02020785872017844,
+  "rmseLogit": 0.026879755510063184,
+  "meanErrorSharePp": 0.5295633534976918,
+  "sampleStandardDeviationSharePp": 0.5052649946420112,
+  "rmseSharePp": 0.6712916568636782,
+  "errors": [
+    {
+      "year": 2014,
+      "candidateId": "45",
+      "candidateName": "AÉCIO NEVES",
+      "orientation": "candidato adversário do PT em cada segundo turno, definido antes de calcular o erro",
+      "polls": [
+        {
+          "id": "datafolha-2014-10-25",
+          "institute": "Datafolha",
+          "share": 0.48,
+          "weight": 120.99713369706282,
+          "sourceUrl": "https://media.folha.uol.com.br/datafolha/2014/10/25/intencao_de_voto_presidente_vespera_2_turno.pdf",
+          "normalizedWeight": 1
+        }
+      ],
+      "actualSourceUrl": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip",
+      "pollShare": 0.48,
+      "actualShare": 0.4836086389763465,
+      "errorSharePp": 0.3608638976346501,
+      "errorMarginPp": 0.7217277952693002,
+      "errorLogit": 0.014453760544114999,
+      "limitations": [
+        "2014: arquivo anterior à divulgação não comprovado para datafolha-2014-10-25.",
+        "2014: cadastro TSE de datafolha-2014-10-25 não verificado diretamente."
+      ]
+    },
+    {
+      "year": 2018,
+      "candidateId": "17",
+      "candidateName": "JAIR BOLSONARO",
+      "orientation": "candidato adversário do PT em cada segundo turno, definido antes de calcular o erro",
+      "polls": [
+        {
+          "id": "datafolha-2018-10-27",
+          "institute": "Datafolha",
+          "share": 0.55,
+          "weight": 117.99412937243588,
+          "sourceUrl": "https://media.folha.uol.com.br/datafolha/2018/10/28/b469d4556e176c907bad8986ccc459cd.pdf",
+          "normalizedWeight": 1
+        }
+      ],
+      "actualSourceUrl": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip",
+      "pollShare": 0.55,
+      "actualShare": 0.5513023128003058,
+      "errorSharePp": 0.13023128003057938,
+      "errorMarginPp": 0.26046256006115875,
+      "errorLogit": 0.0052632667784883735,
+      "limitations": [
+        "2018: arquivo anterior à divulgação não comprovado para datafolha-2018-10-27.",
+        "2018: cadastro TSE de datafolha-2018-10-27 não verificado diretamente."
+      ]
+    },
+    {
+      "year": 2022,
+      "candidateId": "22",
+      "candidateName": "JAIR BOLSONARO",
+      "orientation": "candidato adversário do PT em cada segundo turno, definido antes de calcular o erro",
+      "polls": [
+        {
+          "id": "datafolha-2022-10-29",
+          "institute": "Datafolha",
+          "share": 0.48,
+          "weight": 79.3491438989046,
+          "sourceUrl": "https://media.folha.com.br/datafolha/2022/10/31/intencao-de-voto-presidente-2-turno.pdf",
+          "normalizedWeight": 1
+        }
+      ],
+      "actualSourceUrl": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
+      "pollShare": 0.48,
+      "actualShare": 0.49097594882827844,
+      "errorSharePp": 1.097594882827846,
+      "errorMarginPp": 2.195189765655692,
+      "errorLogit": 0.04394258296680068,
+      "limitations": [
+        "2022: arquivo anterior à divulgação não comprovado para datafolha-2022-10-29.",
+        "2022: cadastro TSE de datafolha-2022-10-29 não verificado diretamente."
+      ]
+    }
+  ],
+  "limitations": [
+    "3 eleições oferecem somente 2 graus de liberdade para a dispersão residual: a estimativa é exploratória.",
+    "Os anos recebem o mesmo peso. Pesquisas da mesma eleição são agregadas antes do cálculo e não aumentam o número de resultados independentes.",
+    "Média do erro mede viés observado; desvio amostral mede dispersão após centralização; RMSE inclui viés. As três medidas não são intercambiáveis.",
+    "A série depende da escolha explícita da orientação dos candidatos. Inverter a identidade em somente um ano invalida a comparação.",
+    "Percentuais publicados arredondados limitam a precisão dos erros; pesos de amostra e recência não removem erros metodológicos compartilhados.",
+    "Covariância regional, variância municipal e cobertura de intervalos não são identificadas por estes erros nacionais. Nenhuma chance de vitória é validada aqui.",
+    "Diferenças entre eleições e seleção incompleta de institutos limitam a transferência desse desvio para 2026.",
+    "A série reúne apenas um instituto; não estima o erro da média de todos os institutos.",
+    "2014: arquivo anterior à divulgação não comprovado para datafolha-2014-10-25.",
+    "2014: cadastro TSE de datafolha-2014-10-25 não verificado diretamente.",
+    "2018: arquivo anterior à divulgação não comprovado para datafolha-2018-10-27.",
+    "2018: cadastro TSE de datafolha-2018-10-27 não verificado diretamente.",
+    "2022: arquivo anterior à divulgação não comprovado para datafolha-2022-10-29.",
+    "2022: cadastro TSE de datafolha-2022-10-29 não verificado diretamente."
+  ],
+  "identified": {
+    "nationalHistoricalDispersion": true,
+    "regionalCovariance": false,
+    "municipalVariance": false,
+    "probabilityCalibration": false
+  },
+  "publicationReady": false,
+  "temporalGateNote": "Corte conservador no fim do dia anterior à data de eleição lida do CSV TSE; não se afirma o horário histórico de divulgação. O arquivo hoje arquivado não prova a versão pré-resultado do PDF.",
+  "scope": "Amostra parcial de pesquisas finais Datafolha; não representa o conjunto de institutos nem identifica a incerteza regional/municipal de 2026.",
+  "inputs": [
+    {
+      "year": 2014,
+      "candidateId": "45",
+      "candidateName": "AÉCIO NEVES",
+      "asOf": "2014-10-25T23:59:59.999Z",
+      "actualSource": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip",
+      "pollIds": [
+        "datafolha-2014-10-25"
+      ]
+    },
+    {
+      "year": 2018,
+      "candidateId": "17",
+      "candidateName": "JAIR BOLSONARO",
+      "asOf": "2018-10-27T23:59:59.999Z",
+      "actualSource": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip",
+      "pollIds": [
+        "datafolha-2018-10-27"
+      ]
+    },
+    {
+      "year": 2022,
+      "candidateId": "22",
+      "candidateName": "JAIR BOLSONARO",
+      "asOf": "2022-10-29T23:59:59.999Z",
+      "actualSource": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
+      "pollIds": [
+        "datafolha-2022-10-29"
+      ]
+    }
+  ],
+  "inputFiles": [
+    {
+      "path": "public/data/round-2-2014.json",
+      "sha256": "202c955f3267ff7220b70836cbf6ab85e59be91a497c4a2a80c372c5a682b8b5"
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2014_BR.csv.gz",
+      "sha256": "d43cb87a2efbe88b0af1370814f5c0d5bbe1faa010667769972aa4ddce5faff5",
+      "sourceUrl": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip"
+    },
+    {
+      "path": "dados/pesquisas/datafolha-2014-10-25.pdf",
+      "sha256": "bdd110568440b90cfa5587aa38d4453c6e0beb1887bdd81a25a73de26aebf979",
+      "sourceUrl": "https://media.folha.uol.com.br/datafolha/2014/10/25/intencao_de_voto_presidente_vespera_2_turno.pdf"
+    },
+    {
+      "path": "public/data/round-2-2018.json",
+      "sha256": "3c59735d1aebddf5a3c96530a0a681370ae8a032f1340989f8570f7a628778ed"
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2018_BR.csv.gz",
+      "sha256": "357f1af4df89ac24fc1208ab65e8b9254b3524e379850fdca1e419ef0a9fd6b5",
+      "sourceUrl": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip"
+    },
+    {
+      "path": "dados/pesquisas/datafolha-2018-10-27.pdf",
+      "sha256": "3fa111efa44496d4f85774594c3f332bb9860a3c3b0cb0e05494d489277283ae",
+      "sourceUrl": "https://media.folha.uol.com.br/datafolha/2018/10/28/b469d4556e176c907bad8986ccc459cd.pdf"
+    },
+    {
+      "path": "public/data/round-2-2022.json",
+      "sha256": "dcb73b818a9e5a682973dfca0544e2b3b594c663b532a5f4691a2bd37fafd58d"
+    },
+    {
+      "path": "dados/originais/votacao_candidato_munzona_2022_BR.csv.gz",
+      "sha256": "4a2add2d0fe325877f93a64add299dbbfc2d9e8af7ceafb5d0f9a6b92471e0ac",
+      "sourceUrl": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip"
+    },
+    {
+      "path": "dados/pesquisas/datafolha-2022-10-29.pdf",
+      "sha256": "3c893d6963b3979a25409be63b61267fddfebd51846bf4f0bb7f1545276a055c",
+      "sourceUrl": "https://media.folha.com.br/datafolha/2022/10/31/intencao-de-voto-presidente-2-turno.pdf"
+    }
+  ],
+  "auditNotes": [
+    "2014: auditoria geral registra divergências de eleitorado; os votos válidos e votos de candidatos reconciliam separadamente. A análise nacional usa somente estes dois campos."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "source": "dados/pesquisas/quaest-2026-10-20.pdf.gz",
+  "page": 19,
+  "observedAt": "2026-10-25T00:10:45.357200+00:00",
+  "unit": "percent",
+  "destinations": [
+    "Flávio Bolsonaro",
+    "Lula",
+    "indecisos",
+    "branco/nulo/não vai votar"
+  ],
+  "rows": [
+    {
+      "source": "outros candidatos agregados",
+      "groupId": "others",
+      "values": [
+        43,
+        37,
+        1,
+        19
+      ],
+      "page": 19,
+      "marginErrorPP": null,
+      "note": "Agregado publicado; não substitui linhas individuais quando disponíveis."
+    },
+    {
+      "source": "branco/nulo/não foi votar",
+      "groupId": "bn_abs",
+      "values": [
+        36,
+        40,
+        3,
+        21
+      ],
+      "page": 20,
+      "marginErrorPP": 6
+    },
+    {
+      "source": "Flávio Bolsonaro",
+      "groupId": "flavio",
+      "values": [
+        94,
+        0,
+        1,
+        5
+      ],
+      "page": 20,
+      "marginErrorPP": 4
+    },
+    {
+      "source": "Lula",
+      "groupId": "lula",
+      "values": [
+        0,
+        95,
+        1,
+        4
+      ],
+      "page": 20,
+      "marginErrorPP": 4
+    },
+    {
+      "source": "Augusto Cury",
+      "groupId": "cury",
+      "values": [
+        33,
+        48,
+        3,
+        16
+      ],
+      "page": 20,
+      "marginErrorPP": 17
+    },
+    {
+      "source": "Ronaldo Caiado",
+      "groupId": "caiado",
+      "values": [
+        57,
+        21,
+        0,
+        22
+      ],
+      "page": 20,
+      "marginErrorPP": 24
+    },
+    {
+      "source": "Renan Santos",
+      "groupId": "renan",
+      "values": [
+        51,
+        25,
+        0,
+        24
+      ],
+      "page": 20,
+      "marginErrorPP": 20
+    }
+  ],
+  "limits": "A página20 permite separar cinco candidatos, mas o destino branco/nulo/não vai votar é agregado; indecisão não é abstenção. Não identifica separadamente as saídas branco, nulo e abstenção. Zema e esquerda pequena não têm linha individual localizada. Não misturar agregado outros com suas linhas individuais na contagem. Os números mostrados são arredondados e cada subgrupo tem margem de erro própria.",
+  "compression": "gzip",
+  "version": 2,
+  "pages": [
+    19,
+    20
+  ],
+  "sourceUrl": "https://quaest.com.br/wp-content/uploads/2026/10/QUAEST9PRESIDENCIAL2110.pdf",
+  "fieldStart": "2026-10-17",
+  "fieldEnd": "2026-10-20",
+  "publishedDate": "2026-10-21",
+  "registration": "BR-08535/2026",
+  "tseRegistrationVerified": false,
+  "sample": 2154,
+  "missingGroups": [
+    "Romeu Zema separado",
+    "candidatos de esquerda pequena separados",
+    "brancos separados de nulos",
+    "abstenção separada de branco/nulo/não vai votar"
+  ],
+  "evidenceInterpretation": "Página20 é gráfico temporal: valores14/10 ficam à esquerda e valores21/10 à direita. Foram transcritos os valores da direita. A data21/10 é divulgação; campo terminou20/10.",
+  "pageImage": {
+    "path": "dados/pesquisas/quaest-2026-10-20-transferencias.png",
+    "sha256": "a41aeb09c03557ccc4918c14d95a36539aac3cfed89d309cee40509b65efe972",
+    "rendering": "pdftoppm página20 escala2000px"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "checkedAt": "2026-10-25T00:13:24.331984+00:00",
+  "status": "passed",
+  "municipalities": 5571,
+  "crosswalkRows": 5571,
+  "matchedElectoralIds": 5571,
+  "unmatchedElectoralIds": [],
+  "excludedOperationalAreas": [
+    {
+      "ibgeCode": "4300001",
+      "name": "Área Operacional \"Lagoa Mirim\"",
+      "reason": "Operational water area, absent from TSE municipal correspondence"
+    },
+    {
+      "ibgeCode": "4300002",
+      "name": "Área Operacional \"Lagoa dos Patos\"",
+      "reason": "Operational water area, absent from TSE municipal correspondence"
+    }
+  ],
+  "sourceYear": 2025,
+  "simplificationToleranceDegrees": 0.0055,
+  "sharedEdgeSimplification": false,
+  "sources": [
+    {
+      "url": "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_Municipios_2025.zip",
+      "path": "dados/originais/BR_Municipios_2025.zip",
+      "sha256": "840bbe6f73726ef9d1460ce49fdfe01a278935c41180d3c893e25ca21db083bd",
+      "bytes": 237062431
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/municipio_tse_ibge/municipio_tse_ibge.zip",
+      "path": "dados/originais/municipio_tse_ibge.zip",
+      "sha256": "6a5372b143f1ad74c99000f1023918f673df55dadd37c9f0ac8c15dcca57a15f",
+      "bytes": 139137
+    }
+  ],
+  "outputs": [
+    {
+      "path": "public/data/municipalities/BR.json",
+      "featureCount": 5571,
+      "bytes": 10290494,
+      "sha256": "f51d80115d2592e8c419b584990e0a83b065b46855411f94410dcd4387547694"
+    },
+    {
+      "path": "public/data/municipalities/AC.json",
+      "featureCount": 22,
+      "bytes": 95755,
+      "sha256": "52ce068d59c28f2ed5365232f8b9cc191bf4021d5e0d2e3c3c000354de164a59"
+    },
+    {
+      "path": "public/data/municipalities/AL.json",
+      "featureCount": 102,
+      "bytes": 87175,
+      "sha256": "5433f8b2b7afdf7b7293b24b6cd242e2ecf82eed8f35c000b1a80795d83f65e9"
+    },
+    {
+      "path": "public/data/municipalities/AM.json",
+      "featureCount": 62,
+      "bytes": 611585,
+      "sha256": "c5f032c1d911047e039b46ffb883d234fb2b9b65be49a6c24874261c22160308"
+    },
+    {
+      "path": "public/data/municipalities/AP.json",
+      "featureCount": 16,
+      "bytes": 102606,
+      "sha256": "0bfafd224fa48d556a7d45b7b75d7620c5ce63d2e3bb2a6604d1425ce40e5e21"
+    },
+    {
+      "path": "public/data/municipalities/BA.json",
+      "featureCount": 417,
+      "bytes": 671995,
+      "sha256": "222d3c4b98c680fac98674b2383b7ce3ee90ed46ae7b0bc26caec230e6c1a735"
+    },
+    {
+      "path": "public/data/municipalities/CE.json",
+      "featureCount": 184,
+      "bytes": 276284,
+      "sha256": "d408c8dae83ba1047018ed6e59f853b34c9e48ecb1c7af4fa50a02a351033030"
+    },
+    {
+      "path": "public/data/municipalities/DF.json",
+      "featureCount": 1,
+      "bytes": 1932,
+      "sha256": "480243f655fc9c38f6b23c6cdebffe57f0b3f31b7412b5bffae760c54ba4bec1"
+    },
+    {
+      "path": "public/data/municipalities/ES.json",
+      "featureCount": 78,
+      "bytes": 134251,
+      "sha256": "c88e2f86862fe46bdfa1e82fa2e7dd7a226a398e0a6caa1a283bf7c8fa617b05"
+    },
+    {
+      "path": "public/data/municipalities/GO.json",
+      "featureCount": 246,
+      "bytes": 573877,
+      "sha256": "e37ecc5d342969ba0663a0b91d0cb6a09d5e2f59b04b66c8b46a2f6821fecc1a"
+    },
+    {
+      "path": "public/data/municipalities/MA.json",
+      "featureCount": 217,
+      "bytes": 406773,
+      "sha256": "c013a2e523693aed7b39ab6418059b88a736a48d71c0eb7f18d0b441b0db43a9"
+    },
+    {
+      "path": "public/data/municipalities/MG.json",
+      "featureCount": 853,
+      "bytes": 1351505,
+      "sha256": "5f7104ab386b8a0b3913131b76e732cfe780b0d3211cabfc9ed68248916177d2"
+    },
+    {
+      "path": "public/data/municipalities/MS.json",
+      "featureCount": 79,
+      "bytes": 301051,
+      "sha256": "0a3656f7a0acd3542eeb99de5c2b308e4bafbfd542d2afee327dc8e7e2dd06a4"
+    },
+    {
+      "path": "public/data/municipalities/MT.json",
+      "featureCount": 142,
+      "bytes": 636570,
+      "sha256": "1819cdc286c1e8a49047813c1af7d7f1f073aca564a62cf0d8c1d31557acc789"
+    },
+    {
+      "path": "public/data/municipalities/PA.json",
+      "featureCount": 144,
+      "bytes": 570714,
+      "sha256": "fbfab072d32dce3e15086110b536fa87fdc1756fc789819f4b084cf27378c202"
+    },
+    {
+      "path": "public/data/municipalities/PB.json",
+      "featureCount": 223,
+      "bytes": 212730,
+      "sha256": "9b250bb571ab67c27b4d1c513ce94281f518ab7c216e769e479f004bf6beddff"
+    },
+    {
+      "path": "public/data/municipalities/PE.json",
+      "featureCount": 185,
+      "bytes": 211507,
+      "sha256": "9a4a8418817977c8798cf6ac77911071aa5bb47b3bcd90ad01aabe3c2edf029b"
+    },
+    {
+      "path": "public/data/municipalities/PI.json",
+      "featureCount": 224,
+      "bytes": 287053,
+      "sha256": "ae3bc44f929f1121617d0680b2b73cb997b5aea52b4b8a8d2f9660245bbedc25"
+    },
+    {
+      "path": "public/data/municipalities/PR.json",
+      "featureCount": 399,
+      "bytes": 679181,
+      "sha256": "3ed52adf6d0c1eb1fa9c9cd58cefed8ce8d3a9e81aed052607db1bb27df2cf6d"
+    },
+    {
+      "path": "public/data/municipalities/RJ.json",
+      "featureCount": 92,
+      "bytes": 202439,
+      "sha256": "ac9c8469929b8ebfd36f85ca9477b07a4fae3687a94f3365cb5a0825d1a65ed8"
+    },
+    {
+      "path": "public/data/municipalities/RN.json",
+      "featureCount": 167,
+      "bytes": 137243,
+      "sha256": "9cf26f6fbdd25377c2863f3e3ac057cb5d79ccafeff2cc7e76eff11b07c0b4f4"
+    },
+    {
+      "path": "public/data/municipalities/RO.json",
+      "featureCount": 52,
+      "bytes": 168662,
+      "sha256": "d68d7612ea1be837a750bdd46eebb5dc1607241080abee71e72079e94f575649"
+    },
+    {
+      "path": "public/data/municipalities/RR.json",
+      "featureCount": 15,
+      "bytes": 103025,
+      "sha256": "6817ecbf78b5bef2a76e2651fdcf5202b792cf274311412f290296758891f9f6"
+    },
+    {
+      "path": "public/data/municipalities/RS.json",
+      "featureCount": 497,
+      "bytes": 813301,
+      "sha256": "099c6d5b839857d5f6762cfb80eeb94333fce3fc4cc7d981b14934c4102bfb59"
+    },
+    {
+      "path": "public/data/municipalities/SC.json",
+      "featureCount": 295,
+      "bytes": 427996,
+      "sha256": "aa44da6a4e0d3f38fcdcf17bc78c7f6e5d1a39ea5f7111ad6577abcadd54adee"
+    },
+    {
+      "path": "public/data/municipalities/SE.json",
+      "featureCount": 75,
+      "bytes": 77053,
+      "sha256": "dcbe130558f753452e63a5208e3a6c9d15cb754bb1aaa5bb2b7e794c56b1e7eb"
+    },
+    {
+      "path": "public/data/municipalities/SP.json",
+      "featureCount": 645,
+      "bytes": 806357,
+      "sha256": "2d203ca0da29fbc1bb6a597e13e384a1034a8188380a0e1c011d5782c0da100d"
+    },
+    {
+      "path": "public/data/municipalities/TO.json",
+      "featureCount": 139,
+      "bytes": 353472,
+      "sha256": "524a97dabc24a7ee30d260e7e78d4c6babfc2cd1dd6aff409e89b5cad915dda0"
+    }
+  ]
+}

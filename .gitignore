@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+test-results/
+playwright-report/
+dados/raw/
+dados/local/
+.runtime/
+.local-state/
+dist/
+.vercel/
+public/projecao-final.json
+# Originais volumosos preservados no pacote completo; a aplicação usa os derivados.
+dados/originais/*.zip
+dados/originais/*.csv.gz
+dados/pesquisas/*.pdf
+dados/pesquisas/*.pdf.gz
+*.log

@@ -1,0 +1,14 @@
+.git
+.next
+node_modules
+.runtime
+.local-state
+test-results
+playwright-report
+dist
+dados/local
+dados/raw
+dados/originais/*.zip
+dados/originais/*.csv.gz
+dados/pesquisas/*.pdf
+dados/pesquisas/*.pdf.gz

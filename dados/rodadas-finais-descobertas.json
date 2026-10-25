@@ -1,0 +1,164 @@
+{
+  "fetchedAt": "2026-10-25T00:11:04.346611+00:00",
+  "status": "one-new-final-poll-confirmed",
+  "polls": [
+    {
+      "id": "datafolha-2026-10-24",
+      "year": 2026,
+      "round": 2,
+      "institute": "Datafolha",
+      "sponsor": "Folha de S.Paulo e TV Globo",
+      "fieldStart": "2026-10-23",
+      "fieldEnd": "2026-10-24",
+      "sample": 4050,
+      "municipalities": 124,
+      "method": null,
+      "registration": "BR-09540/2026",
+      "scope": "BR",
+      "denominator": "valid",
+      "candidates": [
+        {
+          "name": "Flávio Bolsonaro",
+          "percent": 51,
+          "unroundedPercent": 50.89
+        },
+        {
+          "name": "Lula",
+          "percent": 49,
+          "unroundedPercent": 49.11
+        }
+      ],
+      "totals": {
+        "flavio": 48,
+        "lula": 47,
+        "blankNull": 3,
+        "undecided": 2
+      },
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml",
+      "sourceFile": "dados/pesquisas/datafolha-2026-10-24-publicacao.html",
+      "textFile": "dados/pesquisas/datafolha-2026-10-24-publicacao.txt",
+      "verification": "primary-publication-by-poll-sponsor",
+      "tseRegistrationVerified": false,
+      "sha256": "734c79192377ac4a8949e7d2b4a77210f990524eacb896e5f8422e57974f5461",
+      "bytes": 361010,
+      "publicationMetadata": {
+        "datePublished": "2026-10-24T18:30:00Z",
+        "dateModified": "2026-10-24T20:15:00Z"
+      },
+      "notes": "Publicação original Folha, contratante da pesquisa, informa resultados e metadados; método de entrevista não localizado neste artigo, PDF técnico ainda não localizado. Valores não arredondados publicados expressamente. Grupo de alta propensão NÃO é pesquisa independente. Registro citado pelo instituto/contratante; PesqEle403 impede consulta direta.",
+      "crosstabs": {
+        "denominator": "valid",
+        "region": {
+          "Sudeste": {
+            "flavio": 55,
+            "lula": 45
+          },
+          "Sul": {
+            "flavio": 65,
+            "lula": 35
+          },
+          "Nordeste": {
+            "flavio": 33,
+            "lula": 67
+          }
+        },
+        "income": {
+          "até2salarios": {
+            "flavio": 40,
+            "lula": 60
+          }
+        },
+        "religion": {
+          "evangelica": {
+            "flavio": 70,
+            "lula": 30
+          },
+          "catolica": {
+            "flavio": 44,
+            "lula": 56
+          }
+        },
+        "age": {
+          "16a24": {
+            "flavio": 46,
+            "lula": 54
+          }
+        },
+        "propensity": {
+          "high": {
+            "flavio": 52,
+            "lula": 48,
+            "electorateShare": 76
+          },
+          "mediumLow": {
+            "flavio": 48,
+            "lula": 52,
+            "electorateShare": 24
+          },
+          "sourceUrl": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml",
+          "construction": "Proximidade entre domicílio e local de votação e comparecimento no primeiro turno; código e coeficientes do indicador não publicados no texto."
+        }
+      }
+    }
+  ],
+  "checks": [
+    {
+      "url": "https://datafolha.folha.uol.com.br/sitemap.xml",
+      "status": 200,
+      "bytes": 1570,
+      "fetchedAt": "2026-10-25T00:09:32.911974+00:00",
+      "savedFile": "dados/pesquisas/catalogo-2026-10-25-0.txt",
+      "sha256": "cfed94d04ad1e02046f3f6057366a861ee71a33fd20f227618bbf5a6d2e63567"
+    },
+    {
+      "url": "https://www.atlasintel.org/polls/general-release-polls",
+      "status": 200,
+      "bytes": 337288,
+      "fetchedAt": "2026-10-25T00:09:32.292069+00:00",
+      "savedFile": "dados/pesquisas/catalogo-2026-10-25-1.txt",
+      "sha256": "d6ca5af6d9a6a9653e6b38d74ab9f8be152c1525082397f2455b060225b8ec92"
+    },
+    {
+      "url": "https://quaest.com.br/sitemap_index.xml",
+      "status": 200,
+      "bytes": 1036,
+      "fetchedAt": "2026-10-25T00:09:30.968780+00:00",
+      "savedFile": "dados/pesquisas/catalogo-2026-10-25-2.txt",
+      "sha256": "d9c1a2c4780fc2543694b9cb579dfaf193ed8967b9375b5f2a649ee2cd90bd85"
+    },
+    {
+      "url": "https://quaest.com.br/wp-json/wp/v2/relatorios?per_page=100&orderby=date&order=desc",
+      "status": 200,
+      "bytes": 125353,
+      "fetchedAt": "2026-10-25T00:09:31.797896+00:00",
+      "savedFile": "dados/pesquisas/catalogo-2026-10-25-3.txt",
+      "sha256": "b0165dc78c6107f5a97efbc9bb86b7b2671be68097d94fc60d20e28c342e006c"
+    },
+    {
+      "url": "https://pesqele-divulgacao.tse.jus.br/",
+      "error": "HTTP Error 403: Forbidden",
+      "fetchedAt": "2026-10-25T00:09:30.640952+00:00"
+    },
+    {
+      "url": "https://www.ipec-inteligencia.com.br/pesquisas/",
+      "status": 403
+    },
+    {
+      "url": "https://www.paranapesquisas.com.br/category/pesquisas/",
+      "status": 200,
+      "finding": "Página lista registros regionais; não localizei nova publicação nacional final24/10 nesta página."
+    }
+  ],
+  "limits": [
+    "Catálogos Datafolha/Atlas/Quaest retornaram200 mas sem rodada24/10; a busca do contratante Folha encontrou Datafolha24/10 não incluída no sitemap. Isso demonstra que sitemap sem rodada não prova ausência.",
+    "Atlas e Quaest final24/10 não localizados nas fontes consultadas; não equivale a inexistência.",
+    "PesqEleHTTP403 novamente; nenhum contorno aplicado.",
+    "Pesquisa parcial; não corresponde ao universo de registros de2026.",
+    "PDF técnico Datafolha24/10 não localizado nesta rodada; método não preenchido por analogia."
+  ],
+  "extraQuaest": {
+    "url": "https://quaest.com.br/wp-content/uploads/2026/10/QUAEST3PRESIDENCIAL2TCARONAS2110.pdf",
+    "discoveredFrom": "https://quaest.com.br/wp-json/wp/v2/media?parent=5125",
+    "status": "URL primária descoberta, conteúdo não transcrito nesta tarefa; não adicionado como nova pesquisa independente."
+  }
+}
